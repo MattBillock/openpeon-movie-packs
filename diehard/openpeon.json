@@ -1,8 +1,8 @@
 {
   "name": "diehard",
   "display_name": "Die Hard",
-  "version": "1.0.0",
-  "description": "Die Hard quotes for your Claude Code notifications. 16 clips across 6 categories.",
+  "version": "1.0.1",
+  "description": "Die Hard quotes for your Claude Code notifications. 16 clips across 7 categories.",
   "author": {
     "name": "Willow Billock",
     "github": "MattBillock"
@@ -14,8 +14,8 @@
     "action",
     "christmas",
     "bruce-willis",
-    "alan-rickman",
-    "hans-gruber"
+    "hans-gruber",
+    "alan-rickman"
   ],
   "categories": {
     "session.start": [

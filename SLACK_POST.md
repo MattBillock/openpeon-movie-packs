@@ -13,20 +13,20 @@ I made 23 movie sound packs for it. 273 clips, 10 films. Your build fails and Wa
 
 *The packs:*
 
-:movie_camera: *The Big Lebowski* — <https://openpeon.com/packs/lebowski_the_dude|The Dude> · <https://openpeon.com/packs/lebowski_walter|Walter> · <https://openpeon.com/packs/lebowski_jesus|Jesus> · <https://openpeon.com/packs/lebowski_maude|Maude> · <https://openpeon.com/packs/lebowski_big_lebowski|Big Lebowski> _(NSFW)_
-:briefcase: *Office Space* — <https://openpeon.com/packs/office_space|Ensemble> · <https://openpeon.com/packs/office_space_lumbergh|Lumbergh> · <https://openpeon.com/packs/office_space_peter|Peter> _(mild)_
-:mega: *Anchorman* — <https://openpeon.com/packs/anchorman_burgundy|Burgundy> · <https://openpeon.com/packs/anchorman_brick|Brick> · <https://openpeon.com/packs/anchorman_news_team|News Team>
-:dark_sunglasses: *Blues Brothers* — <https://openpeon.com/packs/blues_brothers_jake|Jake> · <https://openpeon.com/packs/blues_brothers_elwood|Elwood> · <https://openpeon.com/packs/blues_brothers|Ensemble> _(mild)_
-:boom: *Die Hard* — <https://openpeon.com/packs/diehard|McClane & Co.> _(NSFW)_
-:scales: *A Few Good Men* — <https://openpeon.com/packs/afewgoodmen|Ensemble> _(NSFW)_
-:rocket: *Starship Troopers* — <https://openpeon.com/packs/starship_rico|Rico> · <https://openpeon.com/packs/starship_rasczak|Rasczak>
-:police_car: *Super Troopers* — <https://openpeon.com/packs/super_troopers|Ensemble> · <https://openpeon.com/packs/super_troopers_farva|Farva> _(NSFW)_
-:airplane: *Airplane!* — <https://openpeon.com/packs/airplane|Ensemble>
-:necktie: *Zoolander* — <https://openpeon.com/packs/zoolander_derek|Derek> · <https://openpeon.com/packs/zoolander_hansel|Hansel>
+:movie_camera: *The Big Lebowski* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/lebowski_the_dude|The Dude> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/lebowski_walter|Walter> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/lebowski_jesus|Jesus> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/lebowski_maude|Maude> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/lebowski_big_lebowski|Big Lebowski> _(NSFW)_
+:briefcase: *Office Space* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/office_space|Ensemble> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/office_space_lumbergh|Lumbergh> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/office_space_peter|Peter> _(mild)_
+:mega: *Anchorman* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/anchorman_burgundy|Burgundy> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/anchorman_brick|Brick> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/anchorman_news_team|News Team>
+:dark_sunglasses: *Blues Brothers* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/blues_brothers_jake|Jake> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/blues_brothers_elwood|Elwood> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/blues_brothers|Ensemble> _(mild)_
+:boom: *Die Hard* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/diehard|McClane & Co.> _(NSFW)_
+:scales: *A Few Good Men* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/afewgoodmen|Ensemble> _(NSFW)_
+:rocket: *Starship Troopers* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/starship_rico|Rico> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/starship_rasczak|Rasczak>
+:police_car: *Super Troopers* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/super_troopers|Ensemble> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/super_troopers_farva|Farva> _(NSFW)_
+:airplane: *Airplane!* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/airplane|Ensemble>
+:necktie: *Zoolander* — <https://github.com/MattBillock/openpeon-movie-packs/tree/main/zoolander_derek|Derek> · <https://github.com/MattBillock/openpeon-movie-packs/tree/main/zoolander_hansel|Hansel>
 
-Install any pack:
+They're all in the <https://openpeon.com|openpeon> registry. Install any pack:
 ```
-peon install mattbillock/openpeon-movie-packs/lebowski_walter
+peon packs use --install lebowski_walter
 ```
 
 Open source: <https://github.com/MattBillock/openpeon-movie-packs>

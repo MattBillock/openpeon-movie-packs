@@ -12,7 +12,11 @@
   "language": "en",
   "tags": [
     "movie-quotes",
-    "the-big-lebowski"
+    "the-big-lebowski",
+    "comedy",
+    "coen-brothers",
+    "julianne-moore",
+    "maude-lebowski"
   ],
   "categories": {
     "input.required": {

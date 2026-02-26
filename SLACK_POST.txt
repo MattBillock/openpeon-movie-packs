@@ -1,6 +1,3 @@
-<!-- Slack announcement post for #peonping / #show-and-tell -->
-<!-- Copy the raw text below into Slack. Links use mrkdwn format. -->
-
 Remember PeonPing, the thing that yells Warcraft quotes at you while you code?
 
 I made 23 movie sound packs for it. 273 clips, 10 films. Your build fails and Walter Sobchak screams "HAS THE WHOLE WORLD GONE CRAZY?" You spam too many prompts and Farva demands a liter of cola.

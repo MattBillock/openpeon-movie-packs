@@ -1,0 +1,70 @@
+{
+  "mission_from_god.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "mission_from_god_2.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "getting_band_back_together.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "putting_band_back_together.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "how_much_little_girl.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "mission_from_god_3.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "cheez_whiz.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "band_is_back_together.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "oh_shit.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "mission_from_god_1.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "i_need_to_talk_to_you.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "are_you_the_police.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "i_ran_out_of_gas.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "excuses_full_chain.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "dont_blaspheme.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "country_and_western.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 12
+  }
+}

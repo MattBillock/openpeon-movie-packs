@@ -1,0 +1,54 @@
+{
+  "meow_what_is_so_damn_funny.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "littering_and_smoking_the_reefer.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "littering_and_smoking_the_reefer_full.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "right_meow.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "meow_standalone.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "i_can_say_meow.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "snozberries_taste_like_snozberries.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "mother_of_god.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "desperation_stinky_cologne.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "twenty_bucks_chicken_fucker.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "chicken_fucker.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "say_car_ramrod.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 1
+  }
+}

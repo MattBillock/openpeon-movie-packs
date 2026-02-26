@@ -1,0 +1,42 @@
+{
+  "are_you_employed_sir.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "every_bums_lot.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "strong_men_also_cry.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "by_god_sir.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "your_revolution_is_over.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "condolences.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "what_makes_a_man.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "will_not_abide_another_toe.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "loss_of_my_legs.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 4
+  }
+}

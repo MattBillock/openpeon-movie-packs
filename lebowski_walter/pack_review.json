@@ -1,0 +1,74 @@
+{
+  "world_of_pain.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "this_is_not_nam.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "gives_a_shit_about_the_rules.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "get_you_a_toe.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "mark_it_zero.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "calmer_than_you_are.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "over_the_line.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "fuck_a_stranger.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "you_see_what_happens_larry.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "has_the_whole_world_gone_crazy.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "out_of_your_element_donny.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "everything_is_a_travesty.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "dont_roll_on_shabbos.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "shomer_shabbos.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "no_frame_of_reference.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "shut_the_fuck_up_donny_1.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "shut_the_fuck_up_donny_3.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 9
+  }
+}

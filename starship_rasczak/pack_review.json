@@ -1,0 +1,38 @@
+{
+  "come_on_you_apes.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "everyone_fights_no_one_quits.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "good_youre_learning.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "figuring_things_out.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "something_given_no_value.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "civilian_vs_citizen.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "everyone_fights_full.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "i_only_have_one_rule.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 2
+  }
+}

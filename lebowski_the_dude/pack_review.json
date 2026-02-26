@@ -1,0 +1,82 @@
+{
+  "take_it_easy_man.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "the_dude_abides.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "im_the_dude.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "i_am_not_mr_lebowski.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "thats_just_your_opinion_man.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "far_out_man.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "new_shit_has_come_to_light.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "strikes_and_gutters.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "rug_tied_room_together.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "obviously_not_a_golfer.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "very_complicated_case.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "had_a_rough_night.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "mind_if_i_do_a_j.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "what_are_you_blathering_about.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "theres_a_beverage_here.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "aggression_will_not_stand.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "life_goes_on_man.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "forget_the_toe.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "lets_go_bowling.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 12
+  }
+}

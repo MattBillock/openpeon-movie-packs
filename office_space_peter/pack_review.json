@@ -1,0 +1,62 @@
+{
+  "not_gonna_go_anymore.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "i_did_nothing.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "two_chicks.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "i_would_do_nothing.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "case_of_the_mondays.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "pc_load_letter.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "worst_day_of_my_life.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "what_would_you_say_you_do.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "not_missing_it.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "wouldnt_say_missing_it.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "just_dont_care.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "dont_care_if_laid_off.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "eight_bosses.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "no_talent_ass_clown.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 7
+  }
+}

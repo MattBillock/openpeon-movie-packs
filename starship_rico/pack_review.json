@@ -1,0 +1,50 @@
+{
+  "buenos_aires_kill_em_all.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "ricos_roughnecks.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "for_all_you_new_people.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "need_a_corporal.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "in_this_for_the_species.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "service_guarantees_citizenship.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "service_guarantees_citizenship_2.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "would_you_like_to_know_more_3.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "kill_em_all.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "only_good_bug_dead_bug.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "only_good_bug_is_dead_bug.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 4
+  }
+}

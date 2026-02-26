@@ -1,0 +1,38 @@
+{
+  "that_creep_can_roll.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "gonna_fuck_you_up.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "ready_to_be_fucked.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "rolled_into_the_semis.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "nobody_fucks_with_the_jesus.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "you_said_it_man.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "let_me_tell_you_pendejo.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "date_wednesday_baby.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 2
+  }
+}

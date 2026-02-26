@@ -1,0 +1,42 @@
+{
+  "hansel_so_hot_right_now.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "hes_so_hot_right_now.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "so_hot_right_now.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "who_am_i.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "listen_to_billy_zane.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "gasoline_fight_accident.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "not_like_every_other_kid.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "excuse_me_bro.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "relax.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 6
+  }
+}

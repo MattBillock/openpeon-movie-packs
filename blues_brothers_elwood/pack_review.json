@@ -1,0 +1,42 @@
+{
+  "106_miles_to_chicago.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "hit_it.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "cop_motor.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "hit_it_1.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "light_was_yellow.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "on_a_tight_schedule.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "weve_got_to_go.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "lot_of_pickup.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "fix_cigarette_lighter.mp3": {
+    "status": "pending-fix",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "needs-work",
+    "pending_fixes": 7
+  }
+}

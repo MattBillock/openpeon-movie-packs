@@ -25,7 +25,7 @@
         {
           "file": "mission_from_god.mp3",
           "label": "We're on a mission from God.",
-          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+          "sha256": "e9a0639287558dbf2d8adc48b75f6762957e0031d51e011dbf8477f4dcc7369a"
         }
       ]
     },
@@ -34,7 +34,7 @@
         {
           "file": "i_ran_out_of_gas.mp3",
           "label": "I ran out of gas.",
-          "sha256": "188e1488be767a2ef88a86e1951c7e57e5083c816850c38f7bc3dd73d463f5e4"
+          "sha256": "d11af591f41040ddb31c194f36d6ac58ee61426d19642372a6225057fd714caa"
         }
       ]
     },
@@ -48,7 +48,7 @@
         {
           "file": "106_test.mp3",
           "label": "It's 106 miles to Chicago...",
-          "sha256": "57678200aa5464d54f3b40a93b568dbe2280f495fc97224979110ace94de0ee8"
+          "sha256": "f0cc340949792d71dd829088eedb724f44f30101e327286f253c4e9c24eab639"
         }
       ]
     },

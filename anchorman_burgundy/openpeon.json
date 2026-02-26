@@ -24,7 +24,7 @@
         {
           "file": "i_love_scotch.mp3",
           "label": "I love scotch. Scotchy scotch scotch.",
-          "sha256": "98757eacfdfa143064c6f471fdf7cdfe613e6e3a437ed544792226e1950c373d"
+          "sha256": "eb559a33a705d567785c14c3b00fbe2c385e2f3d729111bcb2d2dd3a54ac4cd2"
         },
         {
           "file": "pooped_in_refrigerator.mp3",
@@ -123,7 +123,7 @@
         {
           "file": "dorothy_mantooth.mp3",
           "label": "Dorothy Mantooth is a saint!",
-          "sha256": "b98b8bc5b7c0876b445f710b130d373c891bba5541b9f15964fc3f8936a9f52d"
+          "sha256": "0b476fb0be002c00252d3e85a281b3a7ba48ed42c95e5ffb24a5ce37fd45592d"
         }
       ]
     }

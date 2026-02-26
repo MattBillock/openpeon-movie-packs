@@ -1,0 +1,130 @@
+{
+  "name": "afewgoodmen",
+  "display_name": "A Few Good Men",
+  "version": "1.0.1",
+  "description": "A Few Good Men quotes for your Claude Code notifications. 19 clips across 7 categories.",
+  "author": {
+    "name": "Willow Billock",
+    "github": "MattBillock"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "drama",
+    "courtroom",
+    "jack-nicholson",
+    "tom-cruise"
+  ],
+  "categories": {
+    "session.start": [
+      {
+        "file": "sounds/kaffee_hi.mp3",
+        "sha256": "83ad030b11993fd87fed1703d4e7c59afe42a962d86c48f53d9f7a1bf6541d08",
+        "label": "Hi there."
+      },
+      {
+        "file": "sounds/kaffee_im_sorry.mp3",
+        "sha256": "1426650af223d3288d631a545d2ca6d7a8d6c9f357eb5de39b3c312ef62ac971",
+        "label": "I'm sorry."
+      },
+      {
+        "file": "sounds/santiago_is_dead.mp3",
+        "sha256": "4e38f00fefe2fe8687b55228b21e9ad2394e4bba593d923ba8218ab4736b5584",
+        "label": "Santiago is dead."
+      },
+      {
+        "file": "sounds/you_weep_for_santiago.mp3",
+        "sha256": "39710019b20cc75223bd854fc5d9a5178ee0b56cda847d4550f210f20da19435",
+        "label": "You weep for Santiago and you curse the Marines."
+      },
+      {
+        "file": "sounds/son_we_live_in_a_world.mp3",
+        "sha256": "077902a82760099b5cedbfb4f04660877b46dec79189c6726d70cdc4086bd608",
+        "label": "Son, we live in a world that has walls."
+      }
+    ],
+    "task.acknowledge": [
+      {
+        "file": "sounds/greater_responsibility.mp3",
+        "sha256": "f6224a046471dd78d37915b5acd244193693db8228b83e42b27a0a5c1ca03709",
+        "label": "I have a greater responsibility than you can possibly fathom."
+      },
+      {
+        "file": "sounds/goddamn_right_i_did.mp3",
+        "sha256": "4697c1936a71dcb274a78958ae13aa9cf22e563610821944220a8f019d08e3fc",
+        "label": "You're goddamn right I did!"
+      }
+    ],
+    "task.complete": [
+      {
+        "file": "sounds/facts_of_the_case.mp3",
+        "sha256": "694c29b6a97f203fe76c4d2868969f9520285922b66cf583fc856d9d980186de",
+        "label": "These are the facts of the case, and they are undisputed."
+      }
+    ],
+    "task.error": [
+      {
+        "file": "sounds/did_you_order_code_red_screaming.mp3",
+        "sha256": "8bfd1428b77c33c129de9f251ca31a485869e461b5d40acb696afda58e59bcc9",
+        "label": "DID YOU ORDER THE CODE RED?!"
+      },
+      {
+        "file": "sounds/dont_i_feel_like_asshole.mp3",
+        "sha256": "c3781a9b95d8a434249f2ee8ec75ced41186b67a24e00cfbc3928dafdde64b8a",
+        "label": "Don't I feel like the fucking asshole."
+      },
+      {
+        "file": "sounds/lot_of_trouble.mp3",
+        "sha256": "23ee478d094c385a2d264e7fd028d212222146a62664fbaf5f0208aa97d97f21",
+        "label": "We're in a lot of trouble."
+      }
+    ],
+    "input.required": [
+      {
+        "file": "sounds/are_we_clear.mp3",
+        "sha256": "ea08d7c1d01d9d5404e0f2de76684b39fce93ec4cd00fc181f63aada0c77034b",
+        "label": "Are we clear?"
+      },
+      {
+        "file": "sounds/colonel_underwear.mp3",
+        "sha256": "35ab546ee6a6f6747f8e4451733053618f3da7d88ef761f9342134b209a60967",
+        "label": "Is the colonel's underwear a matter of national security?"
+      },
+      {
+        "file": "sounds/i_want_the_truth.mp3",
+        "sha256": "371007ed24d47da028dbaaa2f16db7d70739b4834612ace8985b90abd4b3d88c",
+        "label": "I want the truth!"
+      },
+      {
+        "file": "sounds/walk_of_shame.mp3",
+        "sha256": "e36c38b765c9bf008b738f133c2d748eb430bd2f1acccb5269ec95b91de476bd",
+        "label": "What is it you want to discuss now? My favorite color?"
+      },
+      {
+        "file": "sounds/you_want_me_on_that_wall.mp3",
+        "sha256": "a790ce773619b3a8a98f58d863664710b37834a41ca663ae0f84b13d194c994e",
+        "label": "You don't want the truth because deep down in places you don't talk about at parties, you want me on that wall. You need me on that wall."
+      }
+    ],
+    "resource.limit": [
+      {
+        "file": "sounds/neither_time_nor_inclination.mp3",
+        "sha256": "d3617f68ee298d2021e10812798aecd47b60ad384d5b8027759b0501c27478f1",
+        "label": "I have neither the time nor the inclination to explain myself to a man who rises and sleeps under the blanket of the very freedom I provide."
+      },
+      {
+        "file": "sounds/you_cant_handle_the_truth.mp3",
+        "sha256": "9ba1dee988ee4fdfd6c0479e5c0c89324b9655d4212f65edf5e51a1f7ce4d932",
+        "label": "You can't handle the truth!"
+      }
+    ],
+    "user.spam": [
+      {
+        "file": "sounds/rip_eyes_out.mp3",
+        "sha256": "10ddc573d9166a83d5827750b313d76d81f75fd2f4ced4cfdd2c2d64c9218df0",
+        "label": "I'm gonna rip the eyes out of your head and piss in your dead skull!"
+      }
+    ]
+  }
+}

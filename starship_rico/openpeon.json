@@ -4,7 +4,10 @@
   "display_name": "Johnny Rico",
   "version": "1.0.0",
   "description": "Gung-ho military propaganda energy for your code.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

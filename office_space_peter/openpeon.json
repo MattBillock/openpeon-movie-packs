@@ -4,7 +4,10 @@
   "display_name": "Peter Gibbons",
   "version": "1.0.0",
   "description": "Corporate soul-death as notification sounds.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

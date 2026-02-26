@@ -4,7 +4,10 @@
   "display_name": "Jake Blues",
   "version": "1.0.0",
   "description": "Scheming, devout (sort of), on a mission from God.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

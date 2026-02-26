@@ -4,7 +4,10 @@
   "display_name": "Brick Tamland",
   "version": "1.0.0",
   "description": "Non-sequiturs as a service.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

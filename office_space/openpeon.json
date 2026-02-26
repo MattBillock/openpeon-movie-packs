@@ -4,7 +4,10 @@
   "display_name": "Office Space",
   "version": "1.0.0",
   "description": "Office Space ensemble - Milton, the Bobs, and more.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

@@ -4,7 +4,10 @@
   "display_name": "Jesus Quintana",
   "version": "1.0.0",
   "description": "Nobody fucks with the Jesus. Maximum intimidation, minimum vocabulary.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

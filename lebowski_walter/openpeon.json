@@ -4,7 +4,10 @@
   "display_name": "Walter Sobchak",
   "version": "1.0.0",
   "description": "Unhinged Vietnam veteran energy for your coding errors.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

@@ -4,7 +4,10 @@
   "display_name": "Elwood Blues",
   "version": "1.0.0",
   "description": "Deadpan delivery, all business.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

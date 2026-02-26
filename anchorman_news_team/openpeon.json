@@ -4,7 +4,10 @@
   "display_name": "News Team",
   "version": "1.0.0",
   "description": "Channel 4 News Team Ensemble.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

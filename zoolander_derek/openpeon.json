@@ -4,7 +4,10 @@
   "display_name": "Derek Zoolander",
   "version": "1.0.0",
   "description": "Really, really, ridiculously good looking notifications.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

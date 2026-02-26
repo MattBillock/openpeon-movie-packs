@@ -4,7 +4,10 @@
   "display_name": "Hansel",
   "version": "1.0.0",
   "description": "So hot right now.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

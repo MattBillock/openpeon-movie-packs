@@ -4,7 +4,10 @@
   "display_name": "Ron Burgundy",
   "version": "1.0.0",
   "description": "San Diego's finest anchor, kind of a big deal.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

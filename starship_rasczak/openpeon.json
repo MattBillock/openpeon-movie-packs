@@ -4,7 +4,10 @@
   "display_name": "Lt. Rasczak",
   "version": "1.0.0",
   "description": "Grizzled teacher-turned-warrior tough love.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

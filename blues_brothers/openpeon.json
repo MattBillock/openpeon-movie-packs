@@ -4,7 +4,10 @@
   "display_name": "Blues Brothers",
   "version": "1.0.0",
   "description": "The full Blues Brothers experience.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

@@ -4,7 +4,10 @@
   "display_name": "Maude Lebowski",
   "version": "1.0.0",
   "description": "Intellectual condescension as a notification sound.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

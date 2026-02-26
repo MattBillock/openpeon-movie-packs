@@ -4,7 +4,10 @@
   "display_name": "The Dude",
   "version": "1.0.0",
   "description": "The Dude abides... as your coding notification.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

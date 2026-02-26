@@ -4,7 +4,10 @@
   "display_name": "The Big Lebowski",
   "version": "1.0.0",
   "description": "Wealthy bluster and achievement-worship.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

@@ -4,7 +4,10 @@
   "display_name": "Bill Lumbergh",
   "version": "1.0.0",
   "description": "Yeah, that would be great.",
-  "author": "PeonPing",
+  "author": {
+    "name": "mattbillock",
+    "github": "MattBillock"
+  },
   "license": "fair-use",
   "language": "en",
   "tags": [

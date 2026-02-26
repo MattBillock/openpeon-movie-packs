@@ -1,0 +1,129 @@
+{
+  "cesp_version": "1.0",
+  "name": "office_space_lumbergh",
+  "display_name": "Bill Lumbergh",
+  "version": "1.0.0",
+  "description": "Yeah, that would be great.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "office-space"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "didnt_you_get_the_memo.mp3",
+          "label": "Didn't you get the memo?",
+          "sha256": "8e15db026fcbfe1d281c20bde15013581b316accc2643c0ab3785d563fdd61ec"
+        },
+        {
+          "file": "didnt_you_get_that_memo.mp3",
+          "label": "Didn't you get that memo?",
+          "sha256": "960a8427391fa965b3fa27427e6233a5b6d1d17e2ac11cec11bc663201e6219a"
+        },
+        {
+          "file": "tell_you_about_tps.mp3",
+          "label": "Let me tell you about TPS reports.",
+          "sha256": "91ded0ba22c395229ba73a5753b4f1fc663737e745c6609810e1b8ce1b5bc928"
+        },
+        {
+          "file": "did_you_get_the_memo.mp3",
+          "label": "Did you get the memo?",
+          "sha256": "78c2f851e1587fdddd72758a6aed37f3c0708f36768819f943e6dc2161533e95"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "tps_reports.mp3",
+          "label": "TPS reports.",
+          "sha256": "b32e7ec0774ab729b13fd97b3723c6779c3c8595a2bd66fc5cac0499a99af597"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "yeah_hi_lumbergh.mp3",
+          "label": "Yeah, hi.",
+          "sha256": "a50beeb62c26c57328ae5b5c5c76731f478c44b1139e9ed25a2538f3b3d434ad"
+        },
+        {
+          "file": "whats_happening_2.mp3",
+          "label": "What's happening?",
+          "sha256": "64171bb9458ccf6dd751d36f6e46941cd063eebb95d82c3bfe9a68d9abefd5d6"
+        },
+        {
+          "file": "yeah_hi.mp3",
+          "label": "Yeah, hi.",
+          "sha256": "04ea38be34802e2fa8ebf046d9ef064be02ec0217b747add4cd07b4627e09124"
+        },
+        {
+          "file": "yeah_hi_lumbergh_again.mp3",
+          "label": "Yeah, hi, it's Bill Lumbergh again.",
+          "sha256": "9bcfb3591ce476d004fb8bcc86ad54cf074259927f2ab74628fb18d0039a636b"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "that_would_be_great.mp3",
+          "label": "That would be great.",
+          "sha256": "12a3c0938145269a2d18a7e964a142d6c940ca91c062a36c525b47376b03c709"
+        },
+        {
+          "file": "come_in_tomorrow.mp3",
+          "label": "I'm gonna need you to come in tomorrow.",
+          "sha256": "a02170b5af2284204ad5eea72194e057b933214a6509f4f59af66babd165dbff"
+        },
+        {
+          "file": "cover_sheets.mp3",
+          "label": "Did you get the memo about the cover sheets?",
+          "sha256": "8702e73bef4c7572da59c98bb34e6c3e45cbc7706483f59c2b8b02eae5e51235"
+        },
+        {
+          "file": "come_in_on_saturday.mp3",
+          "label": "I'm gonna need you to come in on Saturday.",
+          "sha256": "73ed1a5f4edb5d783152be4707ddf5a915c665d87b359a48ac21573d7e2a396f"
+        },
+        {
+          "file": "come_in_on_sunday.mp3",
+          "label": "I'm gonna need you to come in on Sunday, too.",
+          "sha256": "bbadb9e796937eb77f2a0cd0b6cc5a3050b923e4e67d33d8cda0e76591f7e3eb"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "that_would_be_great.mp3",
+          "label": "That would be great.",
+          "sha256": "12a3c0938145269a2d18a7e964a142d6c940ca91c062a36c525b47376b03c709"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "tps_reports.mp3",
+          "label": "TPS reports.",
+          "sha256": "b32e7ec0774ab729b13fd97b3723c6779c3c8595a2bd66fc5cac0499a99af597"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "come_in_on_sunday.mp3",
+          "label": "I'm gonna need you to come in on Sunday, too.",
+          "sha256": "bbadb9e796937eb77f2a0cd0b6cc5a3050b923e4e67d33d8cda0e76591f7e3eb"
+        }
+      ]
+    }
+  }
+}

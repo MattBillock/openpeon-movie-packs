@@ -1,0 +1,84 @@
+{
+  "cesp_version": "1.0",
+  "name": "super_troopers_farva",
+  "display_name": "Farva",
+  "version": "1.0.0",
+  "description": "The coworker nobody asked for.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "super-troopers"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "say_car_ramrod.mp3",
+          "label": "Say car Ram-rod!",
+          "sha256": "8a30193143b5a8798342d7902a01cf5148232222a1169dfc0d2c1039a2e185a2"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "goddamn_liter_of_cola.mp3",
+          "label": "I don't want a large Farva! I want a goddamn liter of cola!",
+          "sha256": "1b7d93eb353bb51571371462a81495e53dd8e1cc6683eac862b05231b50f1d28"
+        },
+        {
+          "file": "liter_of_cola.mp3",
+          "label": "Liter of cola.",
+          "sha256": "70dad9a39bdba40573fecb1a203d9452984fb4bb89bb4a3c1e06efc8bfc23e6b"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "car_ramrod.mp3",
+          "label": "Car Ramrod!",
+          "sha256": "954cf909e1653c0fb3170bb492695b6adda7f94192fe3fb398dfef9f711f2fcd"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "team_ramrod.mp3",
+          "label": "Team Ramrod!",
+          "sha256": "c3719d70593b9ecb3eb803b0525a618dff7b57093abea5765886c1e04c9233fd"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "car_ramrod.mp3",
+          "label": "Car Ramrod!",
+          "sha256": "954cf909e1653c0fb3170bb492695b6adda7f94192fe3fb398dfef9f711f2fcd"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "goddamn_liter_of_cola.mp3",
+          "label": "I don't want a large Farva!",
+          "sha256": "1b7d93eb353bb51571371462a81495e53dd8e1cc6683eac862b05231b50f1d28"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "twenty_bucks_chicken_fucker.mp3",
+          "label": "Chicken fucker!",
+          "sha256": "3249b7b35bf2ae77751943d5ac6af6b731ff819622576c48220c418a1ec24429"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "cesp_version": "1.0",
+  "name": "lebowski_maude",
+  "display_name": "Maude Lebowski",
+  "version": "1.0.0",
+  "description": "Intellectual condescension as a notification sound.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-big-lebowski"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "jeffrey_insistent.mp3",
+          "label": "Jeffrey!",
+          "sha256": "0ca4584ccf00667a27a16adaf283d75ecac5e2cf0ae1c3d332f2d9ef991b9a84"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "the_story_is_ludicrous.mp3",
+          "label": "The story is ludicrous.",
+          "sha256": "e7452f301ec1ac55859abc14eb8aee2e5806ff1a4edfbcfa3d4a20da140007c8"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "jeffrey_insistent.mp3",
+          "label": "Jeffrey!",
+          "sha256": "0ca4584ccf00667a27a16adaf283d75ecac5e2cf0ae1c3d332f2d9ef991b9a84"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "in_a_sense_yes.mp3",
+          "label": "In a sense, yes.",
+          "sha256": "cde3215406b729dd097d9400cfd5fb6306a90d39a9214408532a65283759cc26"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "good_man_and_thorough.mp3",
+          "label": "He's a good man. And thorough.",
+          "sha256": "84c44a3b503a193b467b0e3e234291110d3428e742bd0746dc0c83d64fe779d8"
+        },
+        {
+          "file": "the_story_is_ludicrous.mp3",
+          "label": "The story is ludicrous.",
+          "sha256": "e7452f301ec1ac55859abc14eb8aee2e5806ff1a4edfbcfa3d4a20da140007c8"
+        },
+        {
+          "file": "imagine_where_it_goes.mp3",
+          "label": "You can imagine where it goes from here.",
+          "sha256": "b1342936762da75199bb4c17aa5cf1730a46f3a52b06e534bb78015aa629295b"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "what_do_you_do_for_recreation.mp3",
+          "label": "What do you do for recreation?",
+          "sha256": "052b742f8be79ab462842bc9b62fbb7bef09240f3f312e5f9585c50552a258a8"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "dont_be_fatuous.mp3",
+          "label": "Don't be fatuous, Jeffrey.",
+          "sha256": "a24af4f2a91cce5b419ba221bd0d28b6c40cf5dacb16859a445db65b119d7abf"
+        },
+        {
+          "file": "the_story_is_ludicrous.mp3",
+          "label": "The story is ludicrous.",
+          "sha256": "e7452f301ec1ac55859abc14eb8aee2e5806ff1a4edfbcfa3d4a20da140007c8"
+        }
+      ]
+    }
+  }
+}

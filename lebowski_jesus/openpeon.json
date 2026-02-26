@@ -1,0 +1,104 @@
+{
+  "cesp_version": "1.0",
+  "name": "lebowski_jesus",
+  "display_name": "Jesus Quintana",
+  "version": "1.0.0",
+  "description": "Nobody fucks with the Jesus. Maximum intimidation, minimum vocabulary.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-big-lebowski"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "ready_to_be_fucked.mp3",
+          "label": "Are you ready to be fucked, man?",
+          "sha256": "64c0b6cb2f399f1e33bfdc9fc8c27322046f99916db4acfa2f43246de73d6ea7"
+        },
+        {
+          "file": "rolled_into_the_semis.mp3",
+          "label": "I see you rolled your way into the semis.",
+          "sha256": "4bc435439ca7723219e106cb97246b8579d31207de95ea49fe87cfd7a9dcbfb1"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "gonna_fuck_you_up.mp3",
+          "label": "We're gonna fuck you up.",
+          "sha256": "54e31bf9a3901b67772c882468577d09022007f33586217b9f9bffebaa269ff1"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "you_said_it_man.mp3",
+          "label": "You said it, man.",
+          "sha256": "8b98f55165ae5adcab361e658348f36b887e30539b774d5779b7d12bec73c943"
+        },
+        {
+          "file": "nobody_fucks_with_the_jesus.mp3",
+          "label": "Nobody fucks with the Jesus.",
+          "sha256": "2826daed3f7ac01a866dc29e66e9a3552516f0fcd6dd6c6c099d1fd09af5f04e"
+        },
+        {
+          "file": "let_me_tell_you_pendejo.mp3",
+          "label": "Let me tell you something, pendejo.",
+          "sha256": "43cf6ec2776ca1621f9c1b39a2d910b2d4e950a25fc0117ddc2fe4d712915bf6"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "date_wednesday_baby.mp3",
+          "label": "You got a date Wednesday, baby.",
+          "sha256": "d8a6c3683ae71cb771c1c6c783d10bb0b9cfbad0c6e6f25f576473ab6f9802f9"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "you_said_it_man.mp3",
+          "label": "You said it, man.",
+          "sha256": "8b98f55165ae5adcab361e658348f36b887e30539b774d5779b7d12bec73c943"
+        },
+        {
+          "file": "that_creep_can_roll.mp3",
+          "label": "That creep can roll, man.",
+          "sha256": "7bf3383a8bb23e9b1ac5b2649bd13a3a472a284dcbf3dc302c330b14e982755d"
+        },
+        {
+          "file": "gonna_fuck_you_up.mp3",
+          "label": "Liam and me, we're gonna fuck you up.",
+          "sha256": "54e31bf9a3901b67772c882468577d09022007f33586217b9f9bffebaa269ff1"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "ready_to_be_fucked.mp3",
+          "label": "Are you ready to be fucked, man?",
+          "sha256": "64c0b6cb2f399f1e33bfdc9fc8c27322046f99916db4acfa2f43246de73d6ea7"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "nobody_fucks_with_the_jesus.mp3",
+          "label": "Nobody fucks with the Jesus.",
+          "sha256": "2826daed3f7ac01a866dc29e66e9a3552516f0fcd6dd6c6c099d1fd09af5f04e"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "cesp_version": "1.0",
+  "name": "lebowski_walter",
+  "display_name": "Walter Sobchak",
+  "version": "1.0.0",
+  "description": "Unhinged Vietnam veteran energy for your coding errors.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-big-lebowski"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "out_of_your_element_donny.mp3",
+          "label": "Donny, you're out of your element!",
+          "sha256": "e797b8620ea460d6cffd0108d82fb02f1ce9cf3064050b4070347e590eead709"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "dont_roll_on_shabbos.mp3",
+          "label": "I don't roll on Shabbos!",
+          "sha256": "2f649421587b6e402307466eeebbdcc4ef30d07bf32f5068e289bcf6a082c1fb"
+        },
+        {
+          "file": "shomer_shabbos.mp3",
+          "label": "Shomer Shabbos!",
+          "sha256": "1a54ffb376a139df30c44af121313db748b50d6c89411c06897398f2457a997e"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "world_of_pain.mp3",
+          "label": "You're entering a world of pain.",
+          "sha256": "659dbd4b352af931a74dc0d7c443662cbb6c7bd812c00998105a92d68c3ab95b"
+        },
+        {
+          "file": "this_is_not_nam.mp3",
+          "label": "This is not 'Nam. This is bowling. There are rules.",
+          "sha256": "ec85b641628105f8f1438aae5336699f8ee0fb580fe8c6d7e0aefacbda316cab"
+        },
+        {
+          "file": "gives_a_shit_about_the_rules.mp3",
+          "label": "Am I the only one who gives a shit about the rules?",
+          "sha256": "4a1b6ca78ea18ed50fdb0d9b99f06fd54b30d1e6269b06c0ceb25bfca1ef3db7"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "get_you_a_toe.mp3",
+          "label": "I can get you a toe by 3 o'clock this afternoon.",
+          "sha256": "1fb563e2b9a93f6f7b36c6fc6c06f1d6ba218ef15903b7d16e022fa30410dae6"
+        },
+        {
+          "file": "mark_it_zero.mp3",
+          "label": "Mark it zero!",
+          "sha256": "46df33ebb8b34c176bd9f1aa7222fae8913347cf609e7867ac3a6c2b2afda826"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "calmer_than_you_are.mp3",
+          "label": "Calmer than you are.",
+          "sha256": "9acad3e9b16687ffcc604dcc27e18da078f0cd63cf8078c6874b333632a951c5"
+        },
+        {
+          "file": "over_the_line.mp3",
+          "label": "Over the line!",
+          "sha256": "24ade71ff782708711e485327ca5c800e65c374d8467a24a3cfeb6b096152d81"
+        },
+        {
+          "file": "fuck_a_stranger.mp3",
+          "label": "This is what happens when you fuck a stranger in the ass!",
+          "sha256": "87c3e3679bd82c3d5155a0985150f24e796e41d9a50f91d316a054460b8fff91"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "you_see_what_happens_larry.mp3",
+          "label": "You see what happens, Larry?",
+          "sha256": "ee8d6417390aaa5716439211d022572c484887d16831b2cb077d45110472993f"
+        },
+        {
+          "file": "has_the_whole_world_gone_crazy.mp3",
+          "label": "Has the whole world gone crazy?",
+          "sha256": "717b541995150f962f232deef1d4eb70aa36177c0939f033300a484c14f99741"
+        },
+        {
+          "file": "out_of_your_element_donny.mp3",
+          "label": "You're out of your element, Donny!",
+          "sha256": "e797b8620ea460d6cffd0108d82fb02f1ce9cf3064050b4070347e590eead709"
+        },
+        {
+          "file": "everything_is_a_travesty.mp3",
+          "label": "Everything's a fucking travesty with you, man!",
+          "sha256": "d829fba71dc4f1faa594a2d39fd8ff0669d4e659a4e2ec2a1c40fcbfc698ac91"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "calmer_than_you_are.mp3",
+          "label": "Calmer than you are, Dude.",
+          "sha256": "9acad3e9b16687ffcc604dcc27e18da078f0cd63cf8078c6874b333632a951c5"
+        },
+        {
+          "file": "no_frame_of_reference.mp3",
+          "label": "You have no frame of reference here, Donny.",
+          "sha256": "b48f2c7faeb644894fb0a0ec9935c77deda3988f80086bef04ae89238d8ebf8b"
+        },
+        {
+          "file": "shut_the_fuck_up_donny_1.mp3",
+          "label": "Shut the fuck up, Donny.",
+          "sha256": "8650f9b9c24432db0848287c269932d89a6344eb69c208b53db25481bb3f1da2"
+        },
+        {
+          "file": "shut_the_fuck_up_donny_3.mp3",
+          "label": "Shut the fuck up, Donny!",
+          "sha256": "06cc7e441e4dcd1d1ac30dcbc09b16437a28d4a63bdbade98ab7cfad1e63920f"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "cesp_version": "1.0",
+  "name": "zoolander_derek",
+  "display_name": "Derek Zoolander",
+  "version": "1.0.0",
+  "description": "Really, really, ridiculously good looking notifications.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "zoolander"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "but_why_male_models.mp3",
+          "label": "But why male models?",
+          "sha256": "7f729e19350222eed72f6ceab42735a7c168dccf37a1f9a185fd0aac45fa4931"
+        },
+        {
+          "file": "but_why_male_models_1.mp3",
+          "label": "But why male models?",
+          "sha256": "7f6fa7262a2119b259f8f95a73329be03d9243ed68595ff125a29752adeb59a6"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "ridiculously_good_looking.mp3",
+          "label": "Really, really, ridiculously good looking.",
+          "sha256": "69af65702ffffdfc6b6cac14549856fc36cdf31282216e048dfe9ad307a3386d"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "center_for_ants.mp3",
+          "label": "What is this? A center for ants?",
+          "sha256": "12019df4a92450aa6b26ebbc2cee07ed5ea726a77fd0a5463aeaa113dcac5f44"
+        },
+        {
+          "file": "ridiculously_good_looking.mp3",
+          "label": "Really, really, ridiculously good looking.",
+          "sha256": "69af65702ffffdfc6b6cac14549856fc36cdf31282216e048dfe9ad307a3386d"
+        },
+        {
+          "file": "ridiculously_good_looking_2.mp3",
+          "label": "Really, really, ridiculously good looking.",
+          "sha256": "d2c428896b57f40a7f9f46a520ab8bf2ce6e50710ce5ce08d1e9e8789a65513d"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "ridiculously_good_looking.mp3",
+          "label": "Really, really, ridiculously good looking.",
+          "sha256": "69af65702ffffdfc6b6cac14549856fc36cdf31282216e048dfe9ad307a3386d"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "magnum.mp3",
+          "label": "Magnum.",
+          "sha256": "3478aa4d53aea27e79012acb46a73fcd5abf4cc1b85f2335af0deebf4ae6118b"
+        },
+        {
+          "file": "moisture_essence_wetness.mp3",
+          "label": "Moisture is the essence of wetness.",
+          "sha256": "7bdecb3e9219ca9d4a57032383272017837f078d7a80346902eaec035cd14294"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "center_for_ants.mp3",
+          "label": "What is this? A center for ants?",
+          "sha256": "12019df4a92450aa6b26ebbc2cee07ed5ea726a77fd0a5463aeaa113dcac5f44"
+        },
+        {
+          "file": "in_the_computer.mp3",
+          "label": "The files are IN the computer?",
+          "sha256": "44fc5aee57feb76d50c3a594a5962d063a461923e5daa50d845ff05fe36b259c"
+        },
+        {
+          "file": "kill_prime_minister.mp3",
+          "label": "Kill the Prime Minister of Malaysia!",
+          "sha256": "15a0ae9758f130d816e9dbba008a195f49815849fefa96585d66077c3e0a2b72"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "but_why_male_models.mp3",
+          "label": "But why male models?",
+          "sha256": "7f729e19350222eed72f6ceab42735a7c168dccf37a1f9a185fd0aac45fa4931"
+        },
+        {
+          "file": "but_why_male_models_1.mp3",
+          "label": "But why male models?",
+          "sha256": "7f6fa7262a2119b259f8f95a73329be03d9243ed68595ff125a29752adeb59a6"
+        },
+        {
+          "file": "but_why_male_models_2.mp3",
+          "label": "But why male models?",
+          "sha256": "7f6fa7262a2119b259f8f95a73329be03d9243ed68595ff125a29752adeb59a6"
+        }
+      ]
+    }
+  }
+}

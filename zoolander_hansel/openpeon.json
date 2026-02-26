@@ -1,0 +1,109 @@
+{
+  "cesp_version": "1.0",
+  "name": "zoolander_hansel",
+  "display_name": "Hansel",
+  "version": "1.0.0",
+  "description": "So hot right now.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "zoolander"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "excuse_me_bro.mp3",
+          "label": "Excuse me, bro.",
+          "sha256": "8bd9d67263a66532793b6a04b74321eb55babb765640b0311709bc3b7e055af0"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "relax.mp3",
+          "label": "Relax.",
+          "sha256": "7c4be9aa37192c723cfe488bfc778c5b3d817905146f6e6dcc646143d5959186"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "so_hot_right_now.mp3",
+          "label": "So hot right now.",
+          "sha256": "132f06647b33022d149da474fd9cf450509dd7b34cb03bebdb5f4bca802b89bb"
+        },
+        {
+          "file": "hansel_so_hot_right_now.mp3",
+          "label": "Hansel. So hot right now. Hansel.",
+          "sha256": "29b90026febc0f80e39496157e9884a10e8efc9e6aa0f42eaa178846947fdc83"
+        },
+        {
+          "file": "hes_so_hot_right_now.mp3",
+          "label": "He's so hot right now.",
+          "sha256": "0aecdbaaef04717b5dc20f2cc09284957a0cf18db858d72f5eda69a258f6bfc5"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "who_am_i.mp3",
+          "label": "Who am I?",
+          "sha256": "0c40361b950d398bc34d393ea2f4b91274abe948b6b3531f25c6e368a042f08d"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "so_hot_right_now.mp3",
+          "label": "So hot right now.",
+          "sha256": "132f06647b33022d149da474fd9cf450509dd7b34cb03bebdb5f4bca802b89bb"
+        },
+        {
+          "file": "hes_so_hot_right_now.mp3",
+          "label": "He's so hot right now.",
+          "sha256": "0aecdbaaef04717b5dc20f2cc09284957a0cf18db858d72f5eda69a258f6bfc5"
+        },
+        {
+          "file": "listen_to_billy_zane.mp3",
+          "label": "Listen to your friend Billy Zane. He's a cool dude.",
+          "sha256": "9217a29ab43b7de4a3b127f847a056a6f20d37fa14f8ea1cf898490f918f953c"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "gasoline_fight_accident.mp3",
+          "label": "A freak gasoline fight accident.",
+          "sha256": "bcb2bff43a54d47a74990c807ea7a2f3ad4623485e52adac7cea185a6ca3fe16"
+        },
+        {
+          "file": "not_like_every_other_kid.mp3",
+          "label": "I wasn't like every other kid.",
+          "sha256": "09feafc4d09c1cd8444b7472bb20dc9f99e4de16065cb8d53f0a3f8a379207ea"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "so_hot_right_now.mp3",
+          "label": "So hot right now.",
+          "sha256": "132f06647b33022d149da474fd9cf450509dd7b34cb03bebdb5f4bca802b89bb"
+        },
+        {
+          "file": "relax.mp3",
+          "label": "Relax.",
+          "sha256": "7c4be9aa37192c723cfe488bfc778c5b3d817905146f6e6dcc646143d5959186"
+        }
+      ]
+    }
+  }
+}

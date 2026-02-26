@@ -1,0 +1,129 @@
+{
+  "cesp_version": "1.0",
+  "name": "starship_rico",
+  "display_name": "Johnny Rico",
+  "version": "1.0.0",
+  "description": "Gung-ho military propaganda energy for your code.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "starship-troopers"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "need_a_corporal.mp3",
+          "label": "I need a corporal.",
+          "sha256": "04e03237bbcb50f1dd776530b7f8e0fa825e3fe71acf14cf5e6bab781b6c748b"
+        },
+        {
+          "file": "service_guarantees_citizenship.mp3",
+          "label": "Service guarantees citizenship.",
+          "sha256": "7d913162db88665964c4697298a4be37b53eccc127c1baa27838bfaee6f21034"
+        },
+        {
+          "file": "service_guarantees_citizenship_2.mp3",
+          "label": "Service guarantees citizenship.",
+          "sha256": "1b1b9c3ed297d82b43986f74afe1907a1270c5dfb4e308b5696a78ebf2778e18"
+        },
+        {
+          "file": "would_you_like_to_know_more_3.mp3",
+          "label": "Would you like to know more?",
+          "sha256": "8f24fd2e838d885a3f1934b96e8d45b6dfc04ccf3327d28dcf1694c173c5bac9"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "in_this_for_the_species.mp3",
+          "label": "We're in this for the species.",
+          "sha256": "0048c4f088a96bbe4d149a986e98a014957c3c5c82a8b884914648f1937bab1d"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "buenos_aires_kill_em_all.mp3",
+          "label": "I'm from Buenos Aires, and I say kill 'em all!",
+          "sha256": "92e8d1a762ce4c485e13fe2ec5a5fb74ea8f67a364c529b8f4da27a46270fd90"
+        },
+        {
+          "file": "ricos_roughnecks.mp3",
+          "label": "Rico's Roughnecks!",
+          "sha256": "8b55203efa9330c4eaf5bcd8183321042060e2088f2454e6658b2f8af40a57e6"
+        },
+        {
+          "file": "for_all_you_new_people.mp3",
+          "label": "This is for all you new people.",
+          "sha256": "da3a586ed0f56dd64e0997811504534b06b695d202b52c5c47ac6ad98b9930a9"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "ricos_roughnecks.mp3",
+          "label": "Rico's Roughnecks!",
+          "sha256": "8b55203efa9330c4eaf5bcd8183321042060e2088f2454e6658b2f8af40a57e6"
+        },
+        {
+          "file": "need_a_corporal.mp3",
+          "label": "I need a corporal.",
+          "sha256": "04e03237bbcb50f1dd776530b7f8e0fa825e3fe71acf14cf5e6bab781b6c748b"
+        },
+        {
+          "file": "in_this_for_the_species.mp3",
+          "label": "We're in this for the species.",
+          "sha256": "0048c4f088a96bbe4d149a986e98a014957c3c5c82a8b884914648f1937bab1d"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "buenos_aires_kill_em_all.mp3",
+          "label": "I'm from Buenos Aires, and I say kill 'em all!",
+          "sha256": "92e8d1a762ce4c485e13fe2ec5a5fb74ea8f67a364c529b8f4da27a46270fd90"
+        },
+        {
+          "file": "ricos_roughnecks.mp3",
+          "label": "Rico's Roughnecks!",
+          "sha256": "8b55203efa9330c4eaf5bcd8183321042060e2088f2454e6658b2f8af40a57e6"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "need_a_corporal.mp3",
+          "label": "I need a corporal.",
+          "sha256": "04e03237bbcb50f1dd776530b7f8e0fa825e3fe71acf14cf5e6bab781b6c748b"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "kill_em_all.mp3",
+          "label": "Kill 'em all!",
+          "sha256": "3c33baf43afd9043af7769732e763aa18a345bd17cec7ecf09deb8ff9dff6d1b"
+        },
+        {
+          "file": "only_good_bug_dead_bug.mp3",
+          "label": "The only good bug is a dead bug!",
+          "sha256": "26d75673b4143f8e8c39a3e2fdb3c0631b8cf42ba8538bd1ca644c8de074b644"
+        },
+        {
+          "file": "only_good_bug_is_dead_bug.mp3",
+          "label": "The only good bug is a dead bug!",
+          "sha256": "26d75673b4143f8e8c39a3e2fdb3c0631b8cf42ba8538bd1ca644c8de074b644"
+        }
+      ]
+    }
+  }
+}

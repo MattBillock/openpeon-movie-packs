@@ -1,0 +1,114 @@
+{
+  "cesp_version": "1.0",
+  "name": "anchorman_brick",
+  "display_name": "Brick Tamland",
+  "version": "1.0.0",
+  "description": "Non-sequiturs as a service.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "anchorman"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "loud_noises.mp3",
+          "label": "LOUD NOISES!",
+          "sha256": "a6a30219e081813ad732191782ad28d4e8d5fbdc0b831fb8f17b1d8ac7a48660"
+        },
+        {
+          "file": "dont_know_what_yelling_about.mp3",
+          "label": "I DON'T KNOW WHAT WE'RE YELLING ABOUT!",
+          "sha256": "fd8eb97484696069bd962d8701cbbdb139208dafd0c35a122d1e217e205e9e56"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "i_love_lamp_2.mp3",
+          "label": "I love lamp.",
+          "sha256": "c6c2b1e2a49c1307b6ba3461ccc4e357787a605d65087ef57508bea257700977"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "i_love_lamp_2.mp3",
+          "label": "I love lamp.",
+          "sha256": "c6c2b1e2a49c1307b6ba3461ccc4e357787a605d65087ef57508bea257700977"
+        },
+        {
+          "file": "fiberglass_insulation.mp3",
+          "label": "I ate fiberglass insulation.",
+          "sha256": "ddead242febc37c42c11cf92319093079b3a62832e3a9674a2f0d54bfccb23f1"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "i_love_lamp_2.mp3",
+          "label": "I love lamp.",
+          "sha256": "c6c2b1e2a49c1307b6ba3461ccc4e357787a605d65087ef57508bea257700977"
+        },
+        {
+          "file": "killed_a_guy_with_a_trident.mp3",
+          "label": "Yeah, there were horses, and a man on fire, and I killed a guy with a trident.",
+          "sha256": "7f19126412d55a5cc68b5ade95054331c90dbdec88288c0357195768f880a4b8"
+        },
+        {
+          "file": "i_love_lamp_3.mp3",
+          "label": "I love lamp.",
+          "sha256": "24fb4ae366e8da45dfe6fab6d18a3d711a340306a47c4fd0e88d1b5bef1259dd"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "i_love_lamp.mp3",
+          "label": "I love lamp.",
+          "sha256": "bc528cbe9891e73ba307ee8bca57e9c82ece24ba02aabd609527e13cbdcfb4b6"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "loud_noises.mp3",
+          "label": "LOUD NOISES!",
+          "sha256": "a6a30219e081813ad732191782ad28d4e8d5fbdc0b831fb8f17b1d8ac7a48660"
+        },
+        {
+          "file": "pooped_a_hammer.mp3",
+          "label": "I pooped a hammer.",
+          "sha256": "ded915f4c7c7d6e12e2dda85cc8ed0c8d68331be81b1eb5e2240c2c067ffac83"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "loud_noises.mp3",
+          "label": "LOUD NOISES!",
+          "sha256": "a6a30219e081813ad732191782ad28d4e8d5fbdc0b831fb8f17b1d8ac7a48660"
+        },
+        {
+          "file": "dont_know_what_yelling_about.mp3",
+          "label": "I DON'T KNOW WHAT WE'RE YELLING ABOUT!",
+          "sha256": "fd8eb97484696069bd962d8701cbbdb139208dafd0c35a122d1e217e205e9e56"
+        },
+        {
+          "file": "killed_a_guy_with_a_trident.mp3",
+          "label": "I killed a guy with a trident.",
+          "sha256": "7f19126412d55a5cc68b5ade95054331c90dbdec88288c0357195768f880a4b8"
+        }
+      ]
+    }
+  }
+}

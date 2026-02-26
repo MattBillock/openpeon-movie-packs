@@ -1,0 +1,89 @@
+{
+  "cesp_version": "1.0",
+  "name": "blues_brothers",
+  "display_name": "Blues Brothers",
+  "version": "1.0.0",
+  "description": "The full Blues Brothers experience.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-blues-brothers"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "mission_from_god.mp3",
+          "label": "We're on a mission from God.",
+          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "i_ran_out_of_gas.mp3",
+          "label": "I ran out of gas.",
+          "sha256": "188e1488be767a2ef88a86e1951c7e57e5083c816850c38f7bc3dd73d463f5e4"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "everybody_needs_somebody.mp3",
+          "label": "Everybody needs somebody.",
+          "sha256": "46328e385db889db6bdd56f4654812cc16f8158dd38b78e74ad0d2e1809fc03d"
+        },
+        {
+          "file": "106_test.mp3",
+          "label": "It's 106 miles to Chicago...",
+          "sha256": "57678200aa5464d54f3b40a93b568dbe2280f495fc97224979110ace94de0ee8"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "hit_it.mp3",
+          "label": "Hit it.",
+          "sha256": "1ead7d9af820c16264bff9042c811702f070a790ccb02b0d03ffb8bf2938589e"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "band_is_back_together.mp3",
+          "label": "The band is back together.",
+          "sha256": "bfecbe21f8c814b529980f2cc93b9bf2808251e8dddd24a1628d647cc4d7323a"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "new_oldsmobiles.mp3",
+          "label": "The new Oldsmobiles are in early this year.",
+          "sha256": "5fe9cbc62e738b2092007812db449c15309e3a322b03b5d4b4d108a1a1386f6c"
+        },
+        {
+          "file": "car_55_in_trouble.mp3",
+          "label": "Car 55, we're in a lot of trouble.",
+          "sha256": "78a3783a475ae7d87f1f9ab5371c734368aed7b24bba5a9e2d658310c43e4965"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "country_and_western.mp3",
+          "label": "We got both kinds. Country AND Western.",
+          "sha256": "94febd767b3195354422a5302a76fa5a2810340d737f384cafe53e6dba3e70e4"
+        }
+      ]
+    }
+  }
+}

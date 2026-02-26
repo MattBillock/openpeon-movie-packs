@@ -1,0 +1,114 @@
+{
+  "cesp_version": "1.0",
+  "name": "super_troopers",
+  "display_name": "Super Troopers",
+  "version": "1.0.0",
+  "description": "Vermont highway patrol chaos.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "super-troopers"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "say_car_ramrod.mp3",
+          "label": "Say car Ram-rod!",
+          "sha256": "8a30193143b5a8798342d7902a01cf5148232222a1169dfc0d2c1039a2e185a2"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "mother_of_god.mp3",
+          "label": "Mother of God.",
+          "sha256": "1f464e1c5583f3342b7b584f656ccd2d479cfebde0df365429b7b1b331336b51"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "meow_what_is_so_damn_funny.mp3",
+          "label": "Meow what is so damn funny?",
+          "sha256": "86e2eb4207ab7ef0b8bd87aa92cb361229408462ff986fddccafcaaa1047211f"
+        },
+        {
+          "file": "littering_and_smoking_the_reefer.mp3",
+          "label": "Littering and smoking the reefer.",
+          "sha256": "3776798a1bb1499839edf68674937090b0449b1935c8e6fa23d5393a1e5d3dbc"
+        },
+        {
+          "file": "littering_and_smoking_the_reefer_full.mp3",
+          "label": "Littering and smoking the reefer.",
+          "sha256": "f29cbb3a137a886ece9d294ab426b3c71b2b4377b0b5398304e86092c0ef05d4"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "right_meow.mp3",
+          "label": "Right meow.",
+          "sha256": "2cb0a7b47244621d4442463b7402bebfa3535a445cbe9e1628e87166a8f950a9"
+        },
+        {
+          "file": "meow_standalone.mp3",
+          "label": "Meow.",
+          "sha256": "fc6480bd5abb77caf44396bc1596749c109ddb088d3fadc241606dff5d0381da"
+        },
+        {
+          "file": "i_can_say_meow.mp3",
+          "label": "I can say meow.",
+          "sha256": "4c173a3adfd8065a2bfec0b7f5e27a6487a09e3ee5be2eca58dac31a95afa283"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "snozberries_taste_like_snozberries.mp3",
+          "label": "The snozberries taste like snozberries!",
+          "sha256": "fe9c861b29f5c1cd43fdb116635d92e35584bbd8e5eaa34dab6f10e219f73ffb"
+        },
+        {
+          "file": "mother_of_god.mp3",
+          "label": "Mother of God.",
+          "sha256": "1f464e1c5583f3342b7b584f656ccd2d479cfebde0df365429b7b1b331336b51"
+        },
+        {
+          "file": "desperation_stinky_cologne.mp3",
+          "label": "Desperation is a stinky cologne.",
+          "sha256": "a9e812b656bdef3fa120b83caffbd53953cbc45fc8e94eb6a530083ccb80ba4f"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "twenty_bucks_chicken_fucker.mp3",
+          "label": "Chicken fucker!",
+          "sha256": "3249b7b35bf2ae77751943d5ac6af6b731ff819622576c48220c418a1ec24429"
+        },
+        {
+          "file": "chicken_fucker.mp3",
+          "label": "Chicken fucker!",
+          "sha256": "87e898ae7e4a7ca4a0943982cceebd2ff9c423d822fa8c55d16dcfbcf4c8e750"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "chicken_fucker.mp3",
+          "label": "Chicken fucker!",
+          "sha256": "87e898ae7e4a7ca4a0943982cceebd2ff9c423d822fa8c55d16dcfbcf4c8e750"
+        }
+      ]
+    }
+  }
+}

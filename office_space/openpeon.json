@@ -1,0 +1,104 @@
+{
+  "cesp_version": "1.0",
+  "name": "office_space",
+  "display_name": "Office Space",
+  "version": "1.0.0",
+  "description": "Office Space ensemble - Milton, the Bobs, and more.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "office-space"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "what_would_you_say_you_do.mp3",
+          "label": "What would you say you do here?",
+          "sha256": "b78998da6ebd1ece6135943ce1996a33b04d12077e7f30904c3043f82a147c32"
+        },
+        {
+          "file": "believe_you_have_my_stapler.mp3",
+          "label": "I believe you have my stapler.",
+          "sha256": "ee6638480d8ed40c9a3ad616cd1715a1dcacc488e87cb7696f3237ed49fdf6b5"
+        },
+        {
+          "file": "bobs_what_do_you_do.mp3",
+          "label": "What would you say you do here?",
+          "sha256": "9d68d83a64aac0d42b8c365d1ef145d6bc19d35397ef1dc6ad04ca65d85608b4"
+        },
+        {
+          "file": "excuse_me_my_stapler.mp3",
+          "label": "Excuse me, I believe you have my stapler.",
+          "sha256": "bcb8dd55e4aecd1d0ff4a26c594bea32624480a26d549ce8ec3d0585fc268da4"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "minimum_of_flair.mp3",
+          "label": "The minimum of flair.",
+          "sha256": "4253d3ea35cf31a7639f8c554066af6de93ec62fad851aabfc5446d887a6c5c8"
+        },
+        {
+          "file": "fifteen_is_the_minimum.mp3",
+          "label": "Fifteen is the minimum.",
+          "sha256": "e7df174902bd4fdedb7775889eb17258cd13ee94dac2ba3c6a3f45149e1d6e6c"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "heres_my_flair.mp3",
+          "label": "Here's my flair.",
+          "sha256": "bce7f38f60833c8d050f6ed3d1928dbca6c5037ba273003d323719f36e405e7a"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "bob_slydell.mp3",
+          "label": "Bob Slydell.",
+          "sha256": "638e4db04f70cf06de1e5084274f5be9f8ac0d4da720abb957ce5532b3bda666"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "set_building_on_fire.mp3",
+          "label": "I'm going to set the building on fire.",
+          "sha256": "ae58f235b18bea13cb0c043860b478565e66703d4f436c3d14618d573dc83684"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "heres_my_flair.mp3",
+          "label": "Here's my flair.",
+          "sha256": "bce7f38f60833c8d050f6ed3d1928dbca6c5037ba273003d323719f36e405e7a"
+        },
+        {
+          "file": "set_building_on_fire.mp3",
+          "label": "I'm going to set the building on fire.",
+          "sha256": "ae58f235b18bea13cb0c043860b478565e66703d4f436c3d14618d573dc83684"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "its_my_stapler.mp3",
+          "label": "It's my stapler.",
+          "sha256": "95ce1c828683aa9df2bd9dab02070e68e556a9c579b0ed8c9855958be20f2c82"
+        }
+      ]
+    }
+  }
+}

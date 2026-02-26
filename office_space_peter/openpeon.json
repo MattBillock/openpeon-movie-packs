@@ -1,0 +1,119 @@
+{
+  "cesp_version": "1.0",
+  "name": "office_space_peter",
+  "display_name": "Peter Gibbons",
+  "version": "1.0.0",
+  "description": "Corporate soul-death as notification sounds.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "office-space"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "what_would_you_say_you_do.mp3",
+          "label": "What would you say you do here?",
+          "sha256": "b78998da6ebd1ece6135943ce1996a33b04d12077e7f30904c3043f82a147c32"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "not_missing_it.mp3",
+          "label": "I wouldn't say I've been missing it.",
+          "sha256": "097cdbcfac72c4fca0ec55f7902caa4993bda36e90bda9293d7a2700215e200c"
+        },
+        {
+          "file": "wouldnt_say_missing_it.mp3",
+          "label": "I wouldn't say I've been missing it, Bob.",
+          "sha256": "097cdbcfac72c4fca0ec55f7902caa4993bda36e90bda9293d7a2700215e200c"
+        },
+        {
+          "file": "just_dont_care.mp3",
+          "label": "I just don't care anymore.",
+          "sha256": "76fa830721cc09f7c2d3af81c370c136912c308ac772e46401d65c34cca6e2c0"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "not_gonna_go_anymore.mp3",
+          "label": "I'm not gonna go anymore.",
+          "sha256": "bb2d55026a488fd103a8db92b8cb59b7a4ad628c814a89a5340908af2aa1008f"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "i_did_nothing.mp3",
+          "label": "I did nothing.",
+          "sha256": "86c94af230ea9265d10d7e5f2ec2c220cf672a4990a5e91e916809f49ca87e63"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "two_chicks.mp3",
+          "label": "Two chicks at the same time.",
+          "sha256": "249216ba29d99148616975be9d4b646afd978ffd814f02ed094c608ba1a0421b"
+        },
+        {
+          "file": "i_did_nothing.mp3",
+          "label": "I did nothing.",
+          "sha256": "86c94af230ea9265d10d7e5f2ec2c220cf672a4990a5e91e916809f49ca87e63"
+        },
+        {
+          "file": "i_would_do_nothing.mp3",
+          "label": "I would do nothing.",
+          "sha256": "38d003c57aaa4ce2c73d829dcf11fa9eebd2e290241b3d9e6fa215a8ccb1d614"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "case_of_the_mondays.mp3",
+          "label": "Looks like somebody's got a case of the Mondays.",
+          "sha256": "cc6a756a54fe88839f65e4a668bcd77af8148902892a2b78c714213f5655b58a"
+        },
+        {
+          "file": "pc_load_letter.mp3",
+          "label": "PC load letter?!",
+          "sha256": "32a145cc1620df0f091f5c04e8d2d6ad7cceada027f66afd783e9a48de984d04"
+        },
+        {
+          "file": "worst_day_of_my_life.mp3",
+          "label": "Every single day of my life has been worse than the day before it.",
+          "sha256": "3782f29ed4ee94c6d6c16e0992cb8fc7f42388d7ef39b50a4f81863da0ebfaba"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "dont_care_if_laid_off.mp3",
+          "label": "I don't care if they lay me off.",
+          "sha256": "58978b7f71825a359caf5ebf6cc4f5343777323de913b1cf091bdc0c87748f68"
+        },
+        {
+          "file": "eight_bosses.mp3",
+          "label": "I have eight different bosses right now.",
+          "sha256": "a13f7b8ae62e184a2f82c25c789bc232424dca78c56cbfcf1144bab3ad49e387"
+        },
+        {
+          "file": "no_talent_ass_clown.mp3",
+          "label": "No-talent ass-clown.",
+          "sha256": "e5c6d9626179445104f64e3a29b217c71d2546fde6067673e35f7b82c49971cf"
+        }
+      ]
+    }
+  }
+}

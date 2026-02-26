@@ -1,0 +1,129 @@
+{
+  "cesp_version": "1.0",
+  "name": "blues_brothers_jake",
+  "display_name": "Jake Blues",
+  "version": "1.0.0",
+  "description": "Scheming, devout (sort of), on a mission from God.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-blues-brothers"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "mission_from_god_1.mp3",
+          "label": "We're on a mission from God.",
+          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+        },
+        {
+          "file": "i_need_to_talk_to_you.mp3",
+          "label": "I need to talk to you.",
+          "sha256": "66a51768d5f4742a61816082015607b38cabff501e80c3183f7dfd3bdbd9be04"
+        },
+        {
+          "file": "are_you_the_police.mp3",
+          "label": "Are you the police?",
+          "sha256": "39bfe54ef2d57e382b2b0b54e2910d72fb27077758c9ff10ebfc997781a077c8"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "i_ran_out_of_gas.mp3",
+          "label": "I ran out of gas.",
+          "sha256": "188e1488be767a2ef88a86e1951c7e57e5083c816850c38f7bc3dd73d463f5e4"
+        },
+        {
+          "file": "excuses_full_chain.mp3",
+          "label": "I ran out of gas. I had a flat tire...",
+          "sha256": "cef5564a7e89c98b930a7f6775e9201e4ec1a4fdbbf870b5ba5ace7eea5fe0df"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "mission_from_god.mp3",
+          "label": "We're on a mission from God.",
+          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+        },
+        {
+          "file": "mission_from_god_2.mp3",
+          "label": "We're on a mission from God.",
+          "sha256": "ca571f988d51f6c90fd029fa7260450252b208dc472bb67b6a02078494e83e68"
+        },
+        {
+          "file": "getting_band_back_together.mp3",
+          "label": "We're getting the band back together.",
+          "sha256": "6711bc3f3cdb08207d4d281f971e0458d7e439dee48aa17b39276aebf2f3f79a"
+        },
+        {
+          "file": "putting_band_back_together.mp3",
+          "label": "We're putting the band back together.",
+          "sha256": "aa2b4327fa3af7a9dbb6bb165660a510fd508af2ecbdc0887a58c0674e1dd672"
+        },
+        {
+          "file": "how_much_little_girl.mp3",
+          "label": "How much for the little girl?",
+          "sha256": "b3192b3124df9ecc8b22f57d06908937d646af11714c7c1c3c00f0b27696050c"
+        },
+        {
+          "file": "mission_from_god_3.mp3",
+          "label": "We're on a mission from God.",
+          "sha256": "0282d02146f365a76fa9f5023b221b8c3202e21e1780cf8313e4407ca4550f8d"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "mission_from_god.mp3",
+          "label": "We're on a mission from God.",
+          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+        },
+        {
+          "file": "cheez_whiz.mp3",
+          "label": "You got my Cheez Whiz, boy?",
+          "sha256": "7a16489fcae8b4ce13def623fb7c8df55ec020585bcedee7f16262d26bfb923a"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "band_is_back_together.mp3",
+          "label": "The band is back together.",
+          "sha256": "bfecbe21f8c814b529980f2cc93b9bf2808251e8dddd24a1628d647cc4d7323a"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "oh_shit.mp3",
+          "label": "Oh shit.",
+          "sha256": "6ab297977731c44435f3b56c9e6391ea6a94b01fbb8b94d5eea63c22f8e7d05c"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "dont_blaspheme.mp3",
+          "label": "Don't you blaspheme in here!",
+          "sha256": "024063fa2def1084585a267fe704e79d275c7ba42419e5542711d847fcb3af92"
+        },
+        {
+          "file": "country_and_western.mp3",
+          "label": "We got both kinds. Country AND Western.",
+          "sha256": "94febd767b3195354422a5302a76fa5a2810340d737f384cafe53e6dba3e70e4"
+        }
+      ]
+    }
+  }
+}

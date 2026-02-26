@@ -1,0 +1,94 @@
+{
+  "cesp_version": "1.0",
+  "name": "starship_rasczak",
+  "display_name": "Lt. Rasczak",
+  "version": "1.0.0",
+  "description": "Grizzled teacher-turned-warrior tough love.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "starship-troopers"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "come_on_you_apes.mp3",
+          "label": "Come on, you apes!",
+          "sha256": "65562a69c3ff5a03f97256211620e356c74a903854082fbf72fba9cbd09f5624"
+        },
+        {
+          "file": "civilian_vs_citizen.mp3",
+          "label": "What's the difference between a civilian and a citizen?",
+          "sha256": "bd8eb1d5365853859b4e6610d73d8871f19b4ef0b60659a8eafdb153cfba7a82"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "everyone_fights_full.mp3",
+          "label": "Everyone fights, no one quits. If you don't do your job, I'll kill you myself.",
+          "sha256": "d0f490f6b901164873b917213f397e5bdbaa13208c4e20363effa274412500b5"
+        },
+        {
+          "file": "i_only_have_one_rule.mp3",
+          "label": "I only have one rule.",
+          "sha256": "a9ca953161e9aa76d8b3474d795c444adc86a639405848aa6fb411172b0c421a"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "come_on_you_apes.mp3",
+          "label": "Come on, you apes! You wanna live forever?",
+          "sha256": "65562a69c3ff5a03f97256211620e356c74a903854082fbf72fba9cbd09f5624"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "everyone_fights_no_one_quits.mp3",
+          "label": "Everyone fights, no one quits.",
+          "sha256": "9f73feee3ddf9be4108cae42c1b75d4c471912ff0c9423cc4e0f9cfe10c459a7"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "good_youre_learning.mp3",
+          "label": "Good. You're learning.",
+          "sha256": "033b41b74f522b5fe12b521c4012a01c0184c97e0783f4f224726f978dbb3863"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "figuring_things_out.mp3",
+          "label": "Figuring things out for yourself is the only freedom anyone really has.",
+          "sha256": "f09190c3f36d0f36df16531a116befb32b1e085c4d2e3ba5e932dfa0b1b74a8f"
+        },
+        {
+          "file": "something_given_no_value.mp3",
+          "label": "Something given has no value.",
+          "sha256": "fa728b9149bb93cb76349c4a4f9c68ffe15b835a41f8da3fbeac5e2c00dd1bd3"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "everyone_fights_full.mp3",
+          "label": "If you don't do your job, I'll kill you myself.",
+          "sha256": "d0f490f6b901164873b917213f397e5bdbaa13208c4e20363effa274412500b5"
+        }
+      ]
+    }
+  }
+}

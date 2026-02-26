@@ -1,0 +1,109 @@
+{
+  "cesp_version": "1.0",
+  "name": "lebowski_big_lebowski",
+  "display_name": "The Big Lebowski",
+  "version": "1.0.0",
+  "description": "Wealthy bluster and achievement-worship.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-big-lebowski"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "are_you_employed_sir.mp3",
+          "label": "Are you employed, sir?",
+          "sha256": "51d96cb2b505da47058e503568f40aa586ad4022282ffd82baaf630314663781"
+        },
+        {
+          "file": "what_makes_a_man.mp3",
+          "label": "What makes a man, Mr. Lebowski?",
+          "sha256": "12f78f6b24729b1102b5a9394b2708836494077cb9b4af2dcba6ba3c31ed265b"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "will_not_abide_another_toe.mp3",
+          "label": "I will not abide another toe!",
+          "sha256": "0c6e4bd0dc4d479b0c1dc08fa79db356453bf3fcb8d2e5ba44968972c1b921a0"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "are_you_employed_sir.mp3",
+          "label": "Are you employed, sir?",
+          "sha256": "51d96cb2b505da47058e503568f40aa586ad4022282ffd82baaf630314663781"
+        },
+        {
+          "file": "every_bums_lot.mp3",
+          "label": "Every bum's lot in life is his own responsibility.",
+          "sha256": "0b80598aa4cb5ad4bfde0580bbaccb08ad8df5985b6f74127fbe63fe6dfac659"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "strong_men_also_cry.mp3",
+          "label": "Strong men also cry.",
+          "sha256": "c005eb8de014750395557149933d86527fa234fbac8e1cf273548a38bde301b8"
+        },
+        {
+          "file": "by_god_sir.mp3",
+          "label": "By God, sir.",
+          "sha256": "86547a0c19d93e14c515fb98f6e14624d6723dcbce167b9be40deb689114a616"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "that_had_not_occurred_to_us.mp3",
+          "label": "That had not occurred to us, Dude.",
+          "sha256": "3494d660b5f1447b20a0307e39776455920c63691692ca86e376981e79a4343b"
+        },
+        {
+          "file": "achievers.mp3",
+          "label": "Achievers.",
+          "sha256": "1b1a1aa06eb1d71ab93ce3d9284a2ca0a492854c2e62aa2080058d1c8690879c"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "your_revolution_is_over.mp3",
+          "label": "Your revolution is over, Mr. Lebowski!",
+          "sha256": "685a336a07274820230378173de5d44dbdc41de654a5e257e0bd2af748cf3358"
+        },
+        {
+          "file": "condolences.mp3",
+          "label": "Condolences!",
+          "sha256": "39b17a5dc82b8724200ffad2d413c406103d1cd1e6a6b71540568768f3317a1b"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "every_bums_lot.mp3",
+          "label": "Every bum's lot in life is his own responsibility.",
+          "sha256": "0b80598aa4cb5ad4bfde0580bbaccb08ad8df5985b6f74127fbe63fe6dfac659"
+        },
+        {
+          "file": "loss_of_my_legs.mp3",
+          "label": "I didn't blame anyone for the loss of my legs.",
+          "sha256": "0c2c2a20f155cdaf6fc1ed4b7aad8ea9f37bcbcb3786e1d10a68409bc3d9dde2"
+        }
+      ]
+    }
+  }
+}

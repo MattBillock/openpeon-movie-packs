@@ -1,0 +1,149 @@
+{
+  "cesp_version": "1.0",
+  "name": "lebowski_the_dude",
+  "display_name": "The Dude",
+  "version": "1.0.0",
+  "description": "The Dude abides... as your coding notification.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-big-lebowski"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "mind_if_i_do_a_j.mp3",
+          "label": "You mind if I do a J?",
+          "sha256": "ed324bfd27bdd6a3dfe39a6dd602952a55d66834c137da6699d2d674de201ac7"
+        },
+        {
+          "file": "what_are_you_blathering_about.mp3",
+          "label": "What in God's holy name are you blathering about?",
+          "sha256": "08b7322071e880a7505abf2e01a7fd49fb992812277b56424c0067a99ac73d6e"
+        },
+        {
+          "file": "theres_a_beverage_here.mp3",
+          "label": "Careful, man! There's a beverage here!",
+          "sha256": "69085e259d0b4ca1b9b702ca556a4c961009b80942e0d1813a4b2e0d29c06438"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "aggression_will_not_stand.mp3",
+          "label": "This aggression will not stand, man.",
+          "sha256": "ceaba5b092879bb126f8a3d26f6c3d142ce7e49219e100a26d04caf8557382aa"
+        },
+        {
+          "file": "life_goes_on_man.mp3",
+          "label": "Life goes on, man.",
+          "sha256": "366ab9f8610470260e725a5bc723e558c8b948dbb15df4bc2bd279cc932d44a1"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "take_it_easy_man.mp3",
+          "label": "Would you just take it easy, man?",
+          "sha256": "156f8466853c515aa8677c17e07e2d8c8fcf0ec88fafeb7aa83ccf1aae18cb22"
+        },
+        {
+          "file": "the_dude_abides.mp3",
+          "label": "The Dude abides.",
+          "sha256": "fe356a4254c063ba25304944683725693ecc7d062992029c20d950aa3d5661bb"
+        },
+        {
+          "file": "im_the_dude.mp3",
+          "label": "I'm the Dude. So that's what you call me.",
+          "sha256": "f8fb37c4ce6467b3b0d04432ed60a3f0e4db7fbc674fbdc4e0b026615ca55195"
+        },
+        {
+          "file": "i_am_not_mr_lebowski.mp3",
+          "label": "I am not Mr. Lebowski.",
+          "sha256": "5c32ece426ebc6d41d5150c69c8ab5d4c86c858ccbe43537c017f40c65078538"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "thats_just_your_opinion_man.mp3",
+          "label": "That's just, like, your opinion, man.",
+          "sha256": "18dd0fd0c2c3b9b4ceee51f2b2a0d6e8d264d2c26fd8ad7542d125dec7296edd"
+        },
+        {
+          "file": "far_out_man.mp3",
+          "label": "Far out, man. Far fuckin' out.",
+          "sha256": "80dff43d9e039cc1fcc521508a4bc28785e941b7065a500fef96d28205edb491"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "new_shit_has_come_to_light.mp3",
+          "label": "New shit has come to light, man.",
+          "sha256": "e898ab156018dd8b9c9dbc54f086632daa9f856b2ca932f4239e159c1a87417c"
+        },
+        {
+          "file": "strikes_and_gutters.mp3",
+          "label": "Strikes and gutters, ups and downs.",
+          "sha256": "5e80d77b182caaa11f4cb1ad6e3dd121424d852c9538ef8968319522c1868e4d"
+        },
+        {
+          "file": "the_dude_abides.mp3",
+          "label": "The Dude abides.",
+          "sha256": "fe356a4254c063ba25304944683725693ecc7d062992029c20d950aa3d5661bb"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "rug_tied_room_together.mp3",
+          "label": "That rug really tied the room together.",
+          "sha256": "adc35a3bdd6848bf7315e807b16385ae5e096c2eddd68c9e309e7b52dcd70901"
+        },
+        {
+          "file": "obviously_not_a_golfer.mp3",
+          "label": "Obviously you're not a golfer.",
+          "sha256": "e36fcdbd011a571b9d27a9ee43bf5b4c1aac9b661fa669981f5317fb7106c039"
+        },
+        {
+          "file": "very_complicated_case.mp3",
+          "label": "This is a very complicated case.",
+          "sha256": "eeb452ede3864fce41b4bbe2f1bb142b98dc1d1a8540fa5510fc24f09b9833dd"
+        },
+        {
+          "file": "had_a_rough_night.mp3",
+          "label": "Man, come on. I had a rough night.",
+          "sha256": "d4a13b7e28b97d130bd7ad6e01358c0544294b9e612f6a07cac5ea52678df0c4"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "take_it_easy_man.mp3",
+          "label": "Would you just take it easy, man?",
+          "sha256": "156f8466853c515aa8677c17e07e2d8c8fcf0ec88fafeb7aa83ccf1aae18cb22"
+        },
+        {
+          "file": "forget_the_toe.mp3",
+          "label": "Forget about the fucking toe!",
+          "sha256": "e96a6effcdb9a9dbca60fe8c019458f7b23f88899ca6c87f233981c2a95cbd93"
+        },
+        {
+          "file": "lets_go_bowling.mp3",
+          "label": "Dude, let's go bowling.",
+          "sha256": "ae80f24e4efcfc7aeff3d6f1542574ded75e797fcd29581cb535022c129d1d0c"
+        }
+      ]
+    }
+  }
+}

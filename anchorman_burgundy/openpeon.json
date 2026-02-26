@@ -1,0 +1,124 @@
+{
+  "cesp_version": "1.0",
+  "name": "anchorman_burgundy",
+  "display_name": "Ron Burgundy",
+  "version": "1.0.0",
+  "description": "San Diego's finest anchor, kind of a big deal.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "anchorman"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "i_love_scotch.mp3",
+          "label": "I love scotch. Scotchy scotch scotch.",
+          "sha256": "98757eacfdfa143064c6f471fdf7cdfe613e6e3a437ed544792226e1950c373d"
+        },
+        {
+          "file": "pooped_in_refrigerator.mp3",
+          "label": "What? You pooped in the refrigerator?",
+          "sha256": "8ddb97177523cb01387af7c5d77e9399c3cb40b80b81e556969d19b23ae1db6a"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "glass_case_of_emotion.mp3",
+          "label": "I'm trapped in a glass case of emotion!",
+          "sha256": "3a12f7ecb720a15c267d963cc787bd11e141da3857590c3b6de3166a1f33b833"
+        },
+        {
+          "file": "milk_was_a_bad_choice.mp3",
+          "label": "Milk was a bad choice!",
+          "sha256": "7bd30a7bae3c228285222650d43f6f2a06c0d038dc106b36b735ad4ec2833098"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "dont_act_like_youre_not_impressed.mp3",
+          "label": "Don't act like you're not impressed.",
+          "sha256": "50db1dee47ee90f431d156a06e01669226888468877cf2d6a798792f66532df6"
+        },
+        {
+          "file": "kind_of_a_big_deal.mp3",
+          "label": "I'm kind of a big deal.",
+          "sha256": "5b2188a68f12bc79f299516a935658da4b065820ca71d2205af90efae68d9695"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "great_odins_raven.mp3",
+          "label": "Great Odin's raven!",
+          "sha256": "cb302a20e35cc5a5dd4c634a5d627d8c4398da7b71db0012b6bda5c73039e607"
+        },
+        {
+          "file": "by_the_beard_of_zeus.mp3",
+          "label": "By the beard of Zeus!",
+          "sha256": "8b09b73efd269675888e6478f4814d87e93f6142a8da8afb668e47d2a0352875"
+        },
+        {
+          "file": "when_in_rome.mp3",
+          "label": "When in Rome.",
+          "sha256": "a1e359bc2fe01b96edcbf3ed996a7d4469ae0e92eaee6f88d44399da0954c01a"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "stay_classy_san_diego.mp3",
+          "label": "Stay classy, San Diego.",
+          "sha256": "9c13148caaa0f216e1d2d20b94035a971ed42a40fea4af984ad3715e9ba6434a"
+        },
+        {
+          "file": "not_even_mad_thats_amazing.mp3",
+          "label": "I'm not even mad. That's amazing.",
+          "sha256": "c972e231bd35427cbd9d9b0d0275bc40c0d44f821920fdbb89e7828bcefd3f41"
+        },
+        {
+          "file": "that_escalated_quickly.mp3",
+          "label": "That escalated quickly.",
+          "sha256": "9087864c472ba596d4f81a9037f2c6f425a51ac9302c3950b1b93e814b0e2de7"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "immediately_regret_this_decision.mp3",
+          "label": "I immediately regret this decision!",
+          "sha256": "ce3197782997c2cf90247bba3a0868c402cd21d895dd7cc8c85a720f4f05ed84"
+        },
+        {
+          "file": "glass_case_of_emotion.mp3",
+          "label": "I'm in a glass case of emotion!",
+          "sha256": "3a12f7ecb720a15c267d963cc787bd11e141da3857590c3b6de3166a1f33b833"
+        },
+        {
+          "file": "milk_was_a_bad_choice.mp3",
+          "label": "Milk was a bad choice!",
+          "sha256": "7bd30a7bae3c228285222650d43f6f2a06c0d038dc106b36b735ad4ec2833098"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "dorothy_mantooth.mp3",
+          "label": "Dorothy Mantooth is a saint!",
+          "sha256": "b98b8bc5b7c0876b445f710b130d373c891bba5541b9f15964fc3f8936a9f52d"
+        }
+      ]
+    }
+  }
+}

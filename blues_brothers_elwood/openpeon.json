@@ -1,0 +1,99 @@
+{
+  "cesp_version": "1.0",
+  "name": "blues_brothers_elwood",
+  "display_name": "Elwood Blues",
+  "version": "1.0.0",
+  "description": "Deadpan delivery, all business.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "the-blues-brothers"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "hit_it.mp3",
+          "label": "Hit it.",
+          "sha256": "1ead7d9af820c16264bff9042c811702f070a790ccb02b0d03ffb8bf2938589e"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "on_a_tight_schedule.mp3",
+          "label": "We're on a tight schedule.",
+          "sha256": "93ecd39199d4d173107e324807af9bebd503c99f127c428359380867d918c029"
+        },
+        {
+          "file": "weve_got_to_go.mp3",
+          "label": "We've got to go.",
+          "sha256": "ccbdf043a69d2f8abed1a009e328aea71b9ca9fd9b4a4763839bb6561189355c"
+        },
+        {
+          "file": "lot_of_pickup.mp3",
+          "label": "This car's got a lot of pickup.",
+          "sha256": "8967fcf193b0de265776478d7b80bcdddff718a29e080018516eb0a1b003d3c4"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "106_miles_to_chicago.mp3",
+          "label": "It's 106 miles to Chicago...",
+          "sha256": "3758a9e1852d47a99aeb01fbf46a94315a93864b98856a9c2223d6b35825d9d6"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "hit_it.mp3",
+          "label": "Hit it.",
+          "sha256": "1ead7d9af820c16264bff9042c811702f070a790ccb02b0d03ffb8bf2938589e"
+        },
+        {
+          "file": "cop_motor.mp3",
+          "label": "It's got a cop motor.",
+          "sha256": "ef2dc7d17b78dd78baced2ef0b2c5778beccfe69a2c8ba47be05cc976a4c72bd"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "hit_it_1.mp3",
+          "label": "Hit it.",
+          "sha256": "ee2cb3d6390699a85490771dbc87d7514dece0118126b85c192493618ba5ab42"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "light_was_yellow.mp3",
+          "label": "The light was yellow, sir.",
+          "sha256": "dcfe4afee93c7e827c2c6c827e098f50d010daba020a80724d014bd7d2209d62"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "106_miles_to_chicago.mp3",
+          "label": "It's 106 miles to Chicago...",
+          "sha256": "3758a9e1852d47a99aeb01fbf46a94315a93864b98856a9c2223d6b35825d9d6"
+        },
+        {
+          "file": "fix_cigarette_lighter.mp3",
+          "label": "Fix the cigarette lighter.",
+          "sha256": "3cc7c0b256a97e08d392e51f414e87c47156b06f543d5f37be98d67fab47de7a"
+        }
+      ]
+    }
+  }
+}

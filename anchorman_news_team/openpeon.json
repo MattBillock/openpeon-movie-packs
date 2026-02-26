@@ -1,0 +1,94 @@
+{
+  "cesp_version": "1.0",
+  "name": "anchorman_news_team",
+  "display_name": "News Team",
+  "version": "1.0.0",
+  "description": "Channel 4 News Team Ensemble.",
+  "author": "PeonPing",
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "anchorman"
+  ],
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "smells_like_pure_gasoline.mp3",
+          "label": "I'm gonna be honest with you, that smells like pure gasoline.",
+          "sha256": "ee66cfdf6c404fb6a9745426f588ee59436221e000e70f5e75bee0ca8486aca6"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "stings_the_nostrils.mp3",
+          "label": "It's a formidable scent. It stings the nostrils.",
+          "sha256": "f318ada8b31424ae294a823d6595d6fc5fec51f10855d95b9fed530ea496c0d1"
+        },
+        {
+          "file": "used_diaper_indian_food.mp3",
+          "label": "Smells like a used diaper filled with Indian food.",
+          "sha256": "22b0e80d7b39131d5763b8d964cf06a062f19abd5234da8936a20bddccc9f4e8"
+        },
+        {
+          "file": "turd_covered_burnt_hair.mp3",
+          "label": "Smells like a turd covered in burnt hair.",
+          "sha256": "ab95877e9c1380e4b287cfb919aa13dc9a5068e00b5fc54937505a2984d49791"
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sixty_percent_of_the_time.mp3",
+          "label": "60% of the time, it works every time.",
+          "sha256": "841d49ab56389cce447075b3379c9ee22f15d682cbf88d9bab842b2361e6a1a0"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "its_called_sex_panther.mp3",
+          "label": "It's called Sex Panther, by Odeon.",
+          "sha256": "e97782d13d9f832bf7559ee1ff3f30edb9d6de27aa781071c7478e08210ed33f"
+        },
+        {
+          "file": "punch_you_in_the_ovary.mp3",
+          "label": "I'm gonna punch you in the ovary.",
+          "sha256": "11aa249b6217deb55d3da0e88d969b97d8cf1ed9f0b2224f143b0dee6029311e"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "stay_classy_san_diego.mp3",
+          "label": "Stay classy, San Diego.",
+          "sha256": "9c13148caaa0f216e1d2d20b94035a971ed42a40fea4af984ad3715e9ba6434a"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sixty_percent_of_the_time.mp3",
+          "label": "60% of the time, it works every time.",
+          "sha256": "841d49ab56389cce447075b3379c9ee22f15d682cbf88d9bab842b2361e6a1a0"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "dorothy_mantooth.mp3",
+          "label": "Dorothy Mantooth is a saint!",
+          "sha256": "b98b8bc5b7c0876b445f710b130d373c891bba5541b9f15964fc3f8936a9f52d"
+        }
+      ]
+    }
+  }
+}

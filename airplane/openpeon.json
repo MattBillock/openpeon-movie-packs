@@ -17,104 +17,118 @@
     "disaster-movie"
   ],
   "categories": {
-    "session.start": [
-      {
-        "file": "sounds/dont_call_me_shirley.mp3",
-        "sha256": "6aa888f1a6ac00fc01b5fabb38322574b8e0fa152042ce8f9afbadb119047d58",
-        "label": "I am serious. And don't call me Shirley."
-      },
-      {
-        "file": "sounds/johnny_jive.mp3",
-        "sha256": "4b36fb2717e998fbe0501522de76ac26465e685c1ad041b0cc90dbac2d6497cf",
-        "label": "Oh stewardess, I speak jive."
-      },
-      {
-        "file": "sounds/over_over.mp3",
-        "sha256": "1f047dfe74b8d14fadc595da60aef39b2fa2656c31a2d18b05c848b0550ff523",
-        "label": "Over, Oveur."
-      },
-      {
-        "file": "sounds/rumack_good_luck.mp3",
-        "sha256": "443f18d985d66d977406b431e33a4d8f96881813ebe7ab40853b72309563dfdf",
-        "label": "Good luck. We're all counting on you."
-      }
-    ],
-    "task.acknowledge": [
-      {
-        "file": "sounds/rumack_its_a_big_building.mp3",
-        "sha256": "2676f24024e426b770e63e6e9eb144a482912e0be84fe76b9dc2458b0390982a",
-        "label": "It's a big building with patients, but that's not important right now."
-      }
-    ],
-    "task.complete": [
-      {
-        "file": "sounds/striker_win_just_one.mp3",
-        "sha256": "5081dfbd6075a7dd7c2a3d59c9a4c37f7af3aadf36bfd5f6b129e3051d7ca153",
-        "label": "Win just one for the Zipper."
-      }
-    ],
-    "task.error": [
-      {
-        "file": "sounds/rumack_picked_wrong_week.mp3",
-        "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
-        "label": "Looks like I picked the wrong week to quit smoking."
-      },
-      {
-        "file": "sounds/wrong_week_quit_drinking.mp3",
-        "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
-        "label": "Looks like I picked the wrong week to quit drinking."
-      },
-      {
-        "file": "sounds/wrong_week_quit_amphetamines.mp3",
-        "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
-        "label": "Looks like I picked the wrong week to quit amphetamines."
-      },
-      {
-        "file": "sounds/striker_drinking_problem.mp3",
-        "sha256": "c851bc0252b44a66531aeb19395550e666f2bfc255c3fd4475bd0eb640389595",
-        "label": "Drinking problem."
-      }
-    ],
-    "input.required": [
-      {
-        "file": "sounds/roger_roger.mp3",
-        "sha256": "a3f7d7b71ec3fcda4fa9f0bea4e1b9e9ad253fdfcac8337f610528f2efa9484b",
-        "label": "Roger, Roger. What's our vector, Victor?"
-      },
-      {
-        "file": "sounds/rumack_food_poisoning.mp3",
-        "sha256": "975a8219721c72d9c0b42c2677f00755d4733d07f04e905dd911bb1a6acc599c",
-        "label": "The life of everyone on board depends upon just one thing: finding someone back there who can not only fly this plane, but who didn't have fish for dinner."
-      },
-      {
-        "file": "sounds/rumack_hospital.mp3",
-        "sha256": "21f707002d3e1e7cfe56ad1cf588da03f14da140274bab2513f1b6f72922a59d",
-        "label": "A hospital! What is it?"
-      },
-      {
-        "file": "sounds/clearance_clarence.mp3",
-        "sha256": "6c89cf29bcbd3fff3033338f91eab94cbd02a70e7d7d6a2a84257272114de4be",
-        "label": "Roger, Roger. What's our clearance, Clarence?"
-      }
-    ],
-    "resource.limit": [
-      {
-        "file": "sounds/rumack_surely_you_cant_be_serious.mp3",
-        "sha256": "b021212e88b1abd937e7a646aeb55f0ea44f27e6ad150ea5a4f679ea70ae138f",
-        "label": "Surely you can't be serious."
-      }
-    ],
-    "user.spam": [
-      {
-        "file": "sounds/wrong_week_quit_smoking.mp3",
-        "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
-        "label": "Looks like I picked the wrong week to quit smoking."
-      },
-      {
-        "file": "sounds/wrong_week_quit_sniffing.mp3",
-        "sha256": "3a46af41dddbc4cadec6f0480966d6b03308c06e91c8e6621c270e2ee4020a8e",
-        "label": "Looks like I picked the wrong week to quit sniffing glue."
-      }
-    ]
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/dont_call_me_shirley.mp3",
+          "sha256": "6aa888f1a6ac00fc01b5fabb38322574b8e0fa152042ce8f9afbadb119047d58",
+          "label": "I am serious. And don't call me Shirley."
+        },
+        {
+          "file": "sounds/johnny_jive.mp3",
+          "sha256": "4b36fb2717e998fbe0501522de76ac26465e685c1ad041b0cc90dbac2d6497cf",
+          "label": "Oh stewardess, I speak jive."
+        },
+        {
+          "file": "sounds/over_over.mp3",
+          "sha256": "1f047dfe74b8d14fadc595da60aef39b2fa2656c31a2d18b05c848b0550ff523",
+          "label": "Over, Oveur."
+        },
+        {
+          "file": "sounds/rumack_good_luck.mp3",
+          "sha256": "443f18d985d66d977406b431e33a4d8f96881813ebe7ab40853b72309563dfdf",
+          "label": "Good luck. We're all counting on you."
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/rumack_its_a_big_building.mp3",
+          "sha256": "2676f24024e426b770e63e6e9eb144a482912e0be84fe76b9dc2458b0390982a",
+          "label": "It's a big building with patients, but that's not important right now."
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/striker_win_just_one.mp3",
+          "sha256": "5081dfbd6075a7dd7c2a3d59c9a4c37f7af3aadf36bfd5f6b129e3051d7ca153",
+          "label": "Win just one for the Zipper."
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/rumack_picked_wrong_week.mp3",
+          "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
+          "label": "Looks like I picked the wrong week to quit smoking."
+        },
+        {
+          "file": "sounds/wrong_week_quit_drinking.mp3",
+          "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
+          "label": "Looks like I picked the wrong week to quit drinking."
+        },
+        {
+          "file": "sounds/wrong_week_quit_amphetamines.mp3",
+          "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
+          "label": "Looks like I picked the wrong week to quit amphetamines."
+        },
+        {
+          "file": "sounds/striker_drinking_problem.mp3",
+          "sha256": "c851bc0252b44a66531aeb19395550e666f2bfc255c3fd4475bd0eb640389595",
+          "label": "Drinking problem."
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/roger_roger.mp3",
+          "sha256": "a3f7d7b71ec3fcda4fa9f0bea4e1b9e9ad253fdfcac8337f610528f2efa9484b",
+          "label": "Roger, Roger. What's our vector, Victor?"
+        },
+        {
+          "file": "sounds/rumack_food_poisoning.mp3",
+          "sha256": "975a8219721c72d9c0b42c2677f00755d4733d07f04e905dd911bb1a6acc599c",
+          "label": "The life of everyone on board depends upon just one thing: finding someone back there who can not only fly this plane, but who didn't have fish for dinner."
+        },
+        {
+          "file": "sounds/rumack_hospital.mp3",
+          "sha256": "21f707002d3e1e7cfe56ad1cf588da03f14da140274bab2513f1b6f72922a59d",
+          "label": "A hospital! What is it?"
+        },
+        {
+          "file": "sounds/clearance_clarence.mp3",
+          "sha256": "6c89cf29bcbd3fff3033338f91eab94cbd02a70e7d7d6a2a84257272114de4be",
+          "label": "Roger, Roger. What's our clearance, Clarence?"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/rumack_surely_you_cant_be_serious.mp3",
+          "sha256": "b021212e88b1abd937e7a646aeb55f0ea44f27e6ad150ea5a4f679ea70ae138f",
+          "label": "Surely you can't be serious."
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/wrong_week_quit_smoking.mp3",
+          "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
+          "label": "Looks like I picked the wrong week to quit smoking."
+        },
+        {
+          "file": "sounds/wrong_week_quit_sniffing.mp3",
+          "sha256": "3a46af41dddbc4cadec6f0480966d6b03308c06e91c8e6621c270e2ee4020a8e",
+          "label": "Looks like I picked the wrong week to quit sniffing glue."
+        }
+      ]
+    }
   }
 }

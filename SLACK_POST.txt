@@ -1,0 +1,29 @@
+Remember PeonPing, the thing that yells Warcraft quotes at you while you code?
+
+I made 23 movie sound packs for it. 273 clips, 10 films. Your build fails and Walter Sobchak screams "HAS THE WHOLE WORLD GONE CRAZY?" You spam too many prompts and Farva demands a liter of cola.
+
+*The pipeline:*
+1. Grab the source video, curate the most iconic quotes per character, locate timestamps
+2. Trim 1-5 second audio clips, run through speech-to-text to verify the clip matches the expected quote
+3. QA verification loop — listen, flag, re-trim, repeat until clean
+4. Normalize audio levels, generate CESP manifests with SHA256 checksums
+
+*The packs:*
+
+:movie_camera: *The Big Lebowski* — The Dude · Walter · Jesus · Maude · Big Lebowski _(NSFW)_
+:briefcase: *Office Space* — Ensemble · Lumbergh · Peter _(mild)_
+:mega: *Anchorman* — Burgundy · Brick · News Team
+:dark_sunglasses: *Blues Brothers* — Jake · Elwood · Ensemble _(mild)_
+:boom: *Die Hard* — McClane & Co. _(NSFW)_
+:scales: *A Few Good Men* — Ensemble _(NSFW)_
+:rocket: *Starship Troopers* — Rico · Rasczak
+:police_car: *Super Troopers* — Ensemble · Farva _(NSFW)_
+:airplane: *Airplane!* — Ensemble
+:necktie: *Zoolander* — Derek · Hansel
+
+They're all in the openpeon registry. Install any pack:
+```
+peon packs use --install lebowski_walter
+```
+
+Browse all packs: https://github.com/MattBillock/openpeon-movie-packs

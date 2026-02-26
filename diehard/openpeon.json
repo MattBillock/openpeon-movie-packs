@@ -1,0 +1,114 @@
+{
+  "name": "diehard",
+  "display_name": "Die Hard",
+  "version": "1.0.0",
+  "description": "Die Hard quotes for your Claude Code notifications. 16 clips across 6 categories.",
+  "author": {
+    "name": "Willow Billock",
+    "github": "MattBillock"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "action",
+    "christmas",
+    "bruce-willis",
+    "alan-rickman",
+    "hans-gruber"
+  ],
+  "categories": {
+    "session.start": [
+      {
+        "file": "sounds/powell_welcome_to_the_party.mp3",
+        "sha256": "ce885867e53b53da5c1360cff4e0671f2ee2533bac79648c0d4a3ffde35a8dab",
+        "label": "I hear you, partner."
+      },
+      {
+        "file": "sounds/welcome_to_the_party.mp3",
+        "sha256": "5a5d40f3cdda4533901f1a858d404260cfef691e6247bbfd0bb4e13082280eed",
+        "label": "Welcome to the party, pal!"
+      }
+    ],
+    "task.acknowledge": [
+      {
+        "file": "sounds/fists_with_toes.mp3",
+        "sha256": "349939bc32ea0cef47eee12760f2ace9bf634b0a507ce4f6a42d8a2c8bb3b9b5",
+        "label": "Fists with your toes."
+      },
+      {
+        "file": "sounds/hans_benefits_of_classical_education.mp3",
+        "sha256": "b37cdf161c71fba60afcbe086fc29a9ea3eaeced3a9d4e979ddb26e82f6c9db9",
+        "label": "The benefits of a classical education."
+      },
+      {
+        "file": "sounds/hans_ho_ho_ho.mp3",
+        "sha256": "3fb76384fe6ef1ec6a2319526cee523c52ea8802f29eaa9f83ce54bb7bd66d70",
+        "label": "Ho ho ho. Now I have a machine gun."
+      },
+      {
+        "file": "sounds/hans_i_am_an_exceptional_thief.mp3",
+        "sha256": "183a8aea9d3db7489368efef7b4c759ce75b248f800ade34cd1e7353d9aa9006",
+        "label": "I am an exceptional thief, Mrs. McClane. And since I'm moving up to kidnapping, you should be more polite."
+      },
+      {
+        "file": "sounds/hans_shoot_the_glass.mp3",
+        "sha256": "8b5a708e7ad84c11a35c2910f91efddb084efdf7ff6e5065f069963221897660",
+        "label": "Shoot the glass!"
+      },
+      {
+        "file": "sounds/just_a_fly_in_the_ointment.mp3",
+        "sha256": "e481dbdb65017f34eb8a4da03031d3db6c334bb62d78a653283806ec4ea0fc62",
+        "label": "Just a fly in the ointment, Hans. The monkey in the wrench."
+      },
+      {
+        "file": "sounds/now_i_have_a_machine_gun.mp3",
+        "sha256": "3fb76384fe6ef1ec6a2319526cee523c52ea8802f29eaa9f83ce54bb7bd66d70",
+        "label": "Now I have a machine gun. Ho ho ho."
+      },
+      {
+        "file": "sounds/you_throw_quite_a_party.mp3",
+        "sha256": "baf57c356f1f0e34a1ff3798bfcc149767a9e9959e6daabbbc9d5e2ecef32255",
+        "label": "You throw quite a party. I didn't realize they celebrated Christmas in Japan."
+      }
+    ],
+    "task.complete": [
+      {
+        "file": "sounds/hans_nice_suit.mp3",
+        "sha256": "2515f79a3aeef3aa9293d0e23656bd1d171f500d272ffafea9142e63c111fc8a",
+        "label": "Nice suit. John Phillips, London."
+      }
+    ],
+    "task.error": [
+      {
+        "file": "sounds/nine_million_terrorists.mp3",
+        "sha256": "9bebb22b6277e52538ee2dae023aa43c6819fc18af45aeddd53d8c9d1a2590a7",
+        "label": "Nine million terrorists in the world and I gotta kill one with feet smaller than my sister."
+      },
+      {
+        "file": "sounds/yippee_ki_yay.mp3",
+        "sha256": "b9cf93cbe3d0d7af244d8a7046a5d9939a1dab0fdebb14a445d8fab235a0af75",
+        "label": "Yippee-ki-yay, motherfucker."
+      }
+    ],
+    "input.required": [
+      {
+        "file": "sounds/hans_mr_cowboy.mp3",
+        "sha256": "d17bb6875f4e941e873bd4c63f4be8cbf46db55a9119dc32c8c1b54d4aa66dae",
+        "label": "Mr. Mystery Guest? Are you still there?"
+      },
+      {
+        "file": "sounds/powell_roy_rogers.mp3",
+        "sha256": "2fe170aa652e40ebe98981d7314ca91e70b28e03252087b55659aaa2c83bc439",
+        "label": "Roy Rogers, huh?"
+      }
+    ],
+    "resource.limit": [
+      {
+        "file": "sounds/hans_when_alexander_saw.mp3",
+        "sha256": "62f0170a9d903d933d47eeaa476bfed40d6743ccf5dd05da55c62bc4d8d0c0f0",
+        "label": "When Alexander saw the breadth of his domain, he wept, for there were no more worlds to conquer."
+      }
+    ]
+  }
+}

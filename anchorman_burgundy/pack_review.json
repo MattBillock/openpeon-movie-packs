@@ -46,5 +46,17 @@
   "pooped_in_refrigerator.mp3": {
     "status": "ok",
     "notes": ""
+  },
+  "i_love_scotch.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "dorothy_mantooth.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "complete",
+    "notes": ""
   }
 }

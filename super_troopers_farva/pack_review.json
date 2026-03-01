@@ -22,5 +22,9 @@
   "twenty_bucks_chicken_fucker.mp3": {
     "status": "ok",
     "notes": ""
+  },
+  "_pack_status": {
+    "status": "complete",
+    "notes": "clean in git (published)"
   }
 }

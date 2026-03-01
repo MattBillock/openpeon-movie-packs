@@ -26,5 +26,13 @@
   "pooped_a_hammer.mp3": {
     "status": "ok",
     "notes": ""
+  },
+  "killed_a_guy_with_a_trident.mp3": {
+    "status": "ok",
+    "notes": ""
+  },
+  "_pack_status": {
+    "status": "complete",
+    "notes": ""
   }
 }

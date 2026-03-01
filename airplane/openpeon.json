@@ -68,7 +68,7 @@
         },
         {
           "file": "sounds/wrong_week_quit_drinking.mp3",
-          "sha256": "db4e9698c481a66e8620e3394ea1ecc823e7ecad6bfd49b7e02e3bb9e7d08931",
+          "sha256": "a2468ad46c7f1aa69ced6390eaa91784a0e36e899669300605aba58f92fc9ddc",
           "label": "Looks like I picked the wrong week to quit drinking."
         },
         {
@@ -97,12 +97,12 @@
         },
         {
           "file": "sounds/rumack_hospital.mp3",
-          "sha256": "21f707002d3e1e7cfe56ad1cf588da03f14da140274bab2513f1b6f72922a59d",
+          "sha256": "205b7fa5787da94210733814d45f2c48427835fbf7d116c301b2549113dbb23e",
           "label": "A hospital! What is it?"
         },
         {
           "file": "sounds/clearance_clarence.mp3",
-          "sha256": "6c89cf29bcbd3fff3033338f91eab94cbd02a70e7d7d6a2a84257272114de4be",
+          "sha256": "b48c0b3aa8420081017aa37c0335eb6827fcc772f49e841e5307cd64de29d293",
           "label": "Roger, Roger. What's our clearance, Clarence?"
         }
       ]

@@ -24,17 +24,17 @@
         {
           "file": "mission_from_god_1.mp3",
           "label": "We're on a mission from God.",
-          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+          "sha256": "2677d27454ec467095b3017ff7b48a79363419780174d1cc3648e9af385b84a3"
         },
         {
           "file": "i_need_to_talk_to_you.mp3",
           "label": "I need to talk to you.",
-          "sha256": "66a51768d5f4742a61816082015607b38cabff501e80c3183f7dfd3bdbd9be04"
+          "sha256": "4156896fd1072d20e851c095222664c60c26fde973989a17b439ef2e0cfaa3e0"
         },
         {
           "file": "are_you_the_police.mp3",
           "label": "Are you the police?",
-          "sha256": "39bfe54ef2d57e382b2b0b54e2910d72fb27077758c9ff10ebfc997781a077c8"
+          "sha256": "1c7be23272a727598ec05d313fdb707c7923ca953ff2cb70fb0288fa1f581a07"
         }
       ]
     },
@@ -43,7 +43,7 @@
         {
           "file": "i_ran_out_of_gas.mp3",
           "label": "I ran out of gas.",
-          "sha256": "188e1488be767a2ef88a86e1951c7e57e5083c816850c38f7bc3dd73d463f5e4"
+          "sha256": "a470af595fc21700312015c2027b9431bc675b6fc655da2894ed3977c409396d"
         },
         {
           "file": "excuses_full_chain.mp3",
@@ -57,17 +57,17 @@
         {
           "file": "mission_from_god.mp3",
           "label": "We're on a mission from God.",
-          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+          "sha256": "2677d27454ec467095b3017ff7b48a79363419780174d1cc3648e9af385b84a3"
         },
         {
           "file": "mission_from_god_2.mp3",
           "label": "We're on a mission from God.",
-          "sha256": "ca571f988d51f6c90fd029fa7260450252b208dc472bb67b6a02078494e83e68"
+          "sha256": "39cbb8e48742abfab7728f8fe97da92a0f15a3ee80c904e6b6dfa61a3a14237d"
         },
         {
           "file": "getting_band_back_together.mp3",
           "label": "We're getting the band back together.",
-          "sha256": "6711bc3f3cdb08207d4d281f971e0458d7e439dee48aa17b39276aebf2f3f79a"
+          "sha256": "78ee5cb6aacfd77dfce2b433e2768c730515c591acd03e94a54a01bc8a990204"
         },
         {
           "file": "putting_band_back_together.mp3",
@@ -82,7 +82,7 @@
         {
           "file": "mission_from_god_3.mp3",
           "label": "We're on a mission from God.",
-          "sha256": "0282d02146f365a76fa9f5023b221b8c3202e21e1780cf8313e4407ca4550f8d"
+          "sha256": "b65af4d5d714e5cb31c3fc94ff728ccca314be06e0108b30cff0323cd25480e3"
         }
       ]
     },
@@ -91,7 +91,7 @@
         {
           "file": "mission_from_god.mp3",
           "label": "We're on a mission from God.",
-          "sha256": "34b7176cda7d88577e689658ddcc9ae863190cd00410b84e66207b2dc06b43d3"
+          "sha256": "2677d27454ec467095b3017ff7b48a79363419780174d1cc3648e9af385b84a3"
         },
         {
           "file": "cheez_whiz.mp3",
@@ -128,7 +128,7 @@
         {
           "file": "country_and_western.mp3",
           "label": "We got both kinds. Country AND Western.",
-          "sha256": "94febd767b3195354422a5302a76fa5a2810340d737f384cafe53e6dba3e70e4"
+          "sha256": "c05e00aba481ccd54799b58e5abbfc6d206278bc941323ab618b154e20ebaa03"
         }
       ]
     }

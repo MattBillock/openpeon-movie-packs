@@ -1,7 +1,7 @@
 {
   "name": "fightclub",
   "display_name": "Fight Club",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fight Club quotes for your Claude Code notifications. 30 clips across 7 categories.",
   "author": {
     "name": "Willow Billock",

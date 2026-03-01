@@ -1,8 +1,4 @@
 {
-  "are_you_employed_sir.mp3": {
-    "status": "pending-fix",
-    "notes": ""
-  },
   "every_bums_lot.mp3": {
     "status": "ok",
     "notes": ""
@@ -15,12 +11,8 @@
     "status": "ok",
     "notes": ""
   },
-  "your_revolution_is_over.mp3": {
-    "status": "pending-fix",
-    "notes": ""
-  },
   "condolences.mp3": {
-    "status": "pending-fix",
+    "status": "ok",
     "notes": ""
   },
   "what_makes_a_man.mp3": {
@@ -31,12 +23,12 @@
     "status": "ok",
     "notes": ""
   },
-  "loss_of_my_legs.mp3": {
-    "status": "pending-fix",
-    "notes": ""
-  },
   "_pack_status": {
     "status": "needs-work",
     "pending_fixes": 4
+  },
+  "that_had_not_occurred_to_us.mp3": {
+    "status": "ok",
+    "notes": ""
   }
 }

@@ -24,7 +24,7 @@
         {
           "file": "are_you_employed_sir.mp3",
           "label": "Are you employed, sir?",
-          "sha256": "51d96cb2b505da47058e503568f40aa586ad4022282ffd82baaf630314663781"
+          "sha256": "a33ea9d9c60686f1c940e1a3bf66f39cf5380015594bc0d1cda7c3dfa2aa0316"
         },
         {
           "file": "what_makes_a_man.mp3",
@@ -47,7 +47,7 @@
         {
           "file": "are_you_employed_sir.mp3",
           "label": "Are you employed, sir?",
-          "sha256": "51d96cb2b505da47058e503568f40aa586ad4022282ffd82baaf630314663781"
+          "sha256": "a33ea9d9c60686f1c940e1a3bf66f39cf5380015594bc0d1cda7c3dfa2aa0316"
         },
         {
           "file": "every_bums_lot.mp3",
@@ -80,7 +80,7 @@
         {
           "file": "achievers.mp3",
           "label": "Achievers.",
-          "sha256": "1b1a1aa06eb1d71ab93ce3d9284a2ca0a492854c2e62aa2080058d1c8690879c"
+          "sha256": "e61659a4c365569ac52721b01619f575614193c5ffe6a84ce6f6c51c79659c76"
         }
       ]
     },
@@ -89,7 +89,7 @@
         {
           "file": "your_revolution_is_over.mp3",
           "label": "Your revolution is over, Mr. Lebowski!",
-          "sha256": "685a336a07274820230378173de5d44dbdc41de654a5e257e0bd2af748cf3358"
+          "sha256": "b30232b2ef4d5ee3ebe7f602a685db44af89c3f69f2b87a1dd84991af5c5a22d"
         },
         {
           "file": "condolences.mp3",
@@ -108,7 +108,7 @@
         {
           "file": "loss_of_my_legs.mp3",
           "label": "I didn't blame anyone for the loss of my legs.",
-          "sha256": "0c2c2a20f155cdaf6fc1ed4b7aad8ea9f37bcbcb3786e1d10a68409bc3d9dde2"
+          "sha256": "89125bda2282127ee79fe7280a705bb4a2d9466c16da16d5cdca6bde39c49772"
         }
       ]
     }

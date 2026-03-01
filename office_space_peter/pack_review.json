@@ -56,7 +56,7 @@
     "notes": ""
   },
   "_pack_status": {
-    "status": "needs-work",
-    "pending_fixes": 7
+    "status": "complete",
+    "notes": "clean in git (published)"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "airplane",
   "display_name": "Airplane!",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Airplane! quotes for your Claude Code notifications. 17 clips across 7 categories.",
   "author": {
     "name": "Willow Billock",

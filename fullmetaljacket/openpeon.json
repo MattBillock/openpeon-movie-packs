@@ -1,0 +1,149 @@
+{
+  "name": "fullmetaljacket",
+  "display_name": "Full Metal Jacket",
+  "version": "1.0.0",
+  "description": "Full Metal Jacket quotes for your Claude Code notifications. 20 clips across 7 categories.",
+  "author": {
+    "name": "Willow Billock",
+    "github": "MattBillock"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "tags": [
+    "movie-quotes",
+    "war",
+    "military",
+    "kubrick",
+    "r-lee-ermey"
+  ],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/born_to_kill.mp3",
+          "sha256": "45cc501d1c28ad87fe22769e37cf8003533440f178f9ad2fda3682fe4a79f9bf",
+          "label": "I think I was trying to suggest something about the duality of man."
+        },
+        {
+          "file": "sounds/i_am_gunnery_sergeant_hartman.mp3",
+          "sha256": "64919f460631d2410f494818f50af2efc78801e965955e9cf87fe6d94bd63075",
+          "label": "I am Gunnery Sergeant Hartman, your senior drill instructor."
+        },
+        {
+          "file": "sounds/let_me_see_war_face.mp3",
+          "sha256": "8b5cc3b92dc510b7e3de51a820968b6916aaa9aed50f529c92081197b5299f20",
+          "label": "Let me see your war face!"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/best_part_of_you.mp3",
+          "sha256": "3aacbc28259d366af978d2e5c9c121288bceac233c415093fe9f16f118df1784",
+          "label": "I bet you're the kind of guy who would fuck a person in the ass and not even have the goddamn common courtesy to give him a reach-around."
+        },
+        {
+          "file": "sounds/i_will_motivate_you.mp3",
+          "sha256": "3ea376f14a988a3764ef5baf3ec13fdaf5e55796d418b5adf02fb14eb1211e81",
+          "label": "I will motivate you, Private Pyle, if it short-dicks every cannibal on the Congo!"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/outstanding.mp3",
+          "sha256": "93f295ff130e2d43e11da2d48c2d49c49734d79eb260bf29634412e67f140385",
+          "label": "Outstanding!"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/bull_shit.mp3",
+          "sha256": "9bbfc19bf04ade1b900fe0f58ef49e7d708352f7d3afbdd2932225255a259a1e",
+          "label": "Bullshit!"
+        },
+        {
+          "file": "sounds/holy_jesus_what_is_that.mp3",
+          "sha256": "77bced1fb1d3e4e98c7eb034c17e330e50e8a308c0ca2002bf3e42cc9c188b3a",
+          "label": "Holy Jesus! What is that? What the fuck is that?!"
+        },
+        {
+          "file": "sounds/jelly_donut.mp3",
+          "sha256": "71bec3977d97afdc8c4b1dfc67fd3b71db28fbcb5a9f692a09e8d606d07cb97a",
+          "label": "A jelly donut?!"
+        },
+        {
+          "file": "sounds/war_face_louder.mp3",
+          "sha256": "5acc12d49b213a032d7dbbd52ef0e882b86cc210861df1bfb6a51e7979d75f0d",
+          "label": "Bullshit! You didn't convince me! Let me see your REAL war face!"
+        },
+        {
+          "file": "sounds/you_are_nothing.mp3",
+          "sha256": "992f26fb76c2e4b8c3e0aa9e2124eb39ce7214524d39341997b7768f68f39299",
+          "label": "You are nothing but unorganized grabastic pieces of amphibian shit!"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/get_on_your_feet.mp3",
+          "sha256": "c4aa7aae6e9366a31c5c76932a6ce5b9e88794097c36580bd086b1d84709600f",
+          "label": "Get on your feet!"
+        },
+        {
+          "file": "sounds/hartman_sound_off.mp3",
+          "sha256": "19e7e472312c19a3e1341b0b1374f855bfc8a9961b1a48735d14edba0c1c018a",
+          "label": "Sound off like you got a pair!"
+        },
+        {
+          "file": "sounds/joker_is_this_me.mp3",
+          "sha256": "05fe374ce7ac6e7c7c14e70bb35624ff3d794d5bf599408ce253159baff9fdee",
+          "label": "Is that you, John Wayne? Is this me?"
+        },
+        {
+          "file": "sounds/what_is_your_major_malfunction.mp3",
+          "sha256": "a6448e7a0a89f33d62a5717d3c299c0384460848fb2e1b1bd3ea0d770f912b1a",
+          "label": "What is your major malfunction, numbnuts?!"
+        },
+        {
+          "file": "sounds/what_is_your_name.mp3",
+          "sha256": "6e01925f654e9932d8e0696f0ebf2a7fe544d008a3b0bdc208bd581bb97940fb",
+          "label": "What is your name, scumbag?"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/are_you_quitting_on_me.mp3",
+          "sha256": "fab9b6fa8885d36db7cb12aefbb710f78fca768f01e6e8eed2fcea41efc07683",
+          "label": "Are you quitting on me? Well, are you?!"
+        },
+        {
+          "file": "sounds/five_foot_nine.mp3",
+          "sha256": "34384be0777e0b0d45f71dcc5d849cb94dcd9f3cebbce6582e25c60bf298d1ea",
+          "label": "Five foot nine, I didn't know they stacked shit that high!"
+        },
+        {
+          "file": "sounds/you_will_not_laugh.mp3",
+          "sha256": "b114c7da930d80f184a106ad7285d903840288d2a50ee44b1037db1fb49f8cb2",
+          "label": "You will not laugh! You will not cry!"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/hartman_do_you_understand.mp3",
+          "sha256": "1ba6a52d50de40ba12b19aeda79910743cdb18b23ab643d705a9de87c5fe9cff",
+          "label": "Do you understand that?!"
+        }
+      ]
+    }
+  }
+}

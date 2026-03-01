@@ -1,7 +1,7 @@
 {
   "name": "fightclub",
   "display_name": "Fight Club",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "Fight Club quotes for your Claude Code notifications. 30 clips across 7 categories.",
   "author": {
     "name": "Willow Billock",
@@ -32,6 +32,16 @@
           "file": "sounds/not_beautiful_snowflake.mp3",
           "sha256": "4992f753a8bc7aec3b7cd6b3b88775c25e28d01ce512667a51a905eccbfe478a",
           "label": "You are not a beautiful and unique snowflake."
+        },
+        {
+          "file": "sounds/hit_me_as_hard.mp3",
+          "sha256": "7a28e8aee3beddd4a04cde15a7df438f7c1ae409d202cecbe1e6f61b73a712a3",
+          "label": "I want you to hit me as hard as you can."
+        },
+        {
+          "file": "sounds/self_improvement_masturbation.mp3",
+          "sha256": "b6261fd2a97dd86d66de54f81c30b198866dbe06de4b66c05e6e04506e3bae02",
+          "label": "Self-improvement is masturbation."
         }
       ]
     },
@@ -41,6 +51,11 @@
           "file": "sounds/felt_like_destroying.mp3",
           "sha256": "71136f04314f0e2d2ad37bc323ec93516982a0ee8d8580ff30e046ef961be0dc",
           "label": "I felt like destroying something beautiful."
+        },
+        {
+          "file": "sounds/lost_everything_free.mp3",
+          "sha256": "6946b366610b69175d8abd34600ec0ff1696b6eaf5b953ba47c3d31380eb31c6",
+          "label": "It's only after we've lost everything that we're free to do anything."
         }
       ]
     },
@@ -55,11 +70,6 @@
           "file": "sounds/his_name_robert_paulson.mp3",
           "sha256": "ef817db5da6eca4e7253f05badb3305aca03d101887a0ddacbab1bd7ebcc2052",
           "label": "His name is Robert Paulson."
-        },
-        {
-          "file": "sounds/hit_me_as_hard.mp3",
-          "sha256": "7a28e8aee3beddd4a04cde15a7df438f7c1ae409d202cecbe1e6f61b73a712a3",
-          "label": "I want you to hit me as hard as you can."
         },
         {
           "file": "sounds/insomnia_nothings_real.mp3",
@@ -97,24 +107,9 @@
           "label": "I am Jack's wasted life."
         },
         {
-          "file": "sounds/lost_everything_free.mp3",
-          "sha256": "6946b366610b69175d8abd34600ec0ff1696b6eaf5b953ba47c3d31380eb31c6",
-          "label": "It's only after we've lost everything that we're free to do anything."
-        },
-        {
-          "file": "sounds/not_your_khakis.mp3",
-          "sha256": "d13dd5d5dfd3343dc66c0d16cbbffa45f8bc8b328b264a77cd8520844b47f909",
-          "label": "You are not your fucking khakis."
-        },
-        {
           "file": "sounds/second_rule.mp3",
           "sha256": "9140114794b18c0833acbbd6a08d63fd33266f313965f036a58e7b309daa17e8",
           "label": "The second rule of Fight Club is: you DO NOT talk about Fight Club."
-        },
-        {
-          "file": "sounds/self_improvement_masturbation.mp3",
-          "sha256": "b6261fd2a97dd86d66de54f81c30b198866dbe06de4b66c05e6e04506e3bae02",
-          "label": "Self-improvement is masturbation."
         },
         {
           "file": "sounds/sticking_feathers.mp3",
@@ -178,6 +173,11 @@
           "file": "sounds/hitting_bottom.mp3",
           "sha256": "bdc43ad251102ce60377729bab13329f158e9a98e628765452469a65fa26533b",
           "label": "Hitting bottom isn't a weekend retreat."
+        },
+        {
+          "file": "sounds/not_your_khakis.mp3",
+          "sha256": "d13dd5d5dfd3343dc66c0d16cbbffa45f8bc8b328b264a77cd8520844b47f909",
+          "label": "You are not your fucking khakis."
         }
       ]
     },
